@@ -1,1 +1,0 @@
-ls /usr/bin | grep gcc | sort -r | echo > "ex1.txt"

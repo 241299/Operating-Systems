@@ -1,0 +1,2 @@
+   text	   data	    bss	    dec	    hex	filename
+   3133	   1988	    416	   5537	   15a1	a.exe

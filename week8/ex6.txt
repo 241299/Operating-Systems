@@ -1,0 +1,4 @@
+﻿16 bit ⇒ 2¹⁶ addressable bytes
+8 KB = 2¹³ bytes per page
+
+Entries = 2¹⁶ / 2¹³ = 2³

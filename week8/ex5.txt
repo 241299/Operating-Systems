@@ -1,0 +1,2 @@
+Virtual address space is an abstraction over the physical (hardware) address space.
+When we access virtual address, we basically access physical address standing behind it.

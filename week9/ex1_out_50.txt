@@ -1,0 +1,5109 @@
+Input: 337 490 194 973 151 425 722 816 331 760 864 53 416 170 829 434 181 731 86 544 29 559 629 411 365 368 802 962 529 833 8 435 564 94 64 695 654 913 867 679 129 773 158 231 477 118 825 976 616 395 715 870 229 687 20 160 543 231 977 792 942 680 81 257 314 374 354 522 464 410 462 311 82 648 299 604 588 527 131 48 32 682 295 832 131 35 246 148 256 970 510 668 305 356 265 5 581 436 411 864 59 444 603 392 778 42 91 740 229 774 6 253 729 182 649 666 313 198 65 540 392 420 132 623 155 119 781 263 752 385 809 906 790 270 960 983 881 320 122 764 861 806 555 665 191 160 192 304 129 586 207 635 300 776 281 301 724 619 64 627 934 943 380 521 910 67 902 863 500 140 227 33 51 707 523 596 572 816 715 314 843 861 694 996 850 945 592 699 912 284 361 518 529 850 4 118 248 976 827 412 586 817 305 561 731 877 450 988 563 901 23 554 873 277 703 290 53 613 713 77 45 850 68 202 717 70 865 194 2 420 240 819 581 193 353 138 890 579 138 483 131 9 237 427 60 82 163 842 538 213 648 759 837 122 262 657 334 569 668 381 695 553 388 814 952 292 290 243 399 495 32 178 770 436 26 467 431 456 762 446 462 277 398 557 98 434 893 606 91 972 176 923 85 592 960 420 662 354 990 859 699 96 814 640 263 776 437 886 447 879 236 571 693 289 708 121 792 228 273 620 408 644 190 973 348 708 461 748 835 530 790 63 26 219 881 540 947 142 337 882 521 647 833 437 643 6 995 499 530 688 83 491 675 190 259 858 975 281 814 396 435 354 54 165 110 219 861 40 15 866 10 418 520 858 903 526 113 811 62 140 84 466 316 144 54 926 714 814 470 315 615 177 200 691 704 901 301 569 568 249 767 124 161 56 695 263 924 283 575 539 368 383 436 872 809 631 267 119 146 551 178 909 450 742 992 940 314 439 252 499 540 868 156 249 605 156 986 422 981 146 882 246 651 865 746 661 767 41 948 298 356 857 865 637 520 480 215 553 155 414 33 849 797 214 248 189 362 903 965 602 615 652 222 955 858 239 889 427 331 225 477 247 646 705 10 136 38 304 587 75 159 717 702 653 509 15 167 628 918 900 322 492 587 260 241 65 647 882 855 906 755 335 881 490 700 774 249 285 714 12 688 509 665 352 482 776 799 477 931 540 104 726 28 140 759 594 19 368 52 995 480 946 53 725 115 362 726 65 925 805 348 295 206 959 144 151 869 551 996 517 22 580 853 471 424 569 311 936 12 72 83 971 354 226 717 986 294 110 835 52 877 161 435 887 474 350 7 364 962 991 445 498 156 59 967 832 796 751 753 270 994 294 123 941 422 214 920 245 672 816 652 120 460 86 610 640 848 992 70 419 575 798 837 358 856 270 883 975 944 279 767 222 156 356 772 475 880 883 733 176 449 310 8 804 465 470 276 528 809 8 250 160 691 124 621 74 766 626 938 316 499 668 417 603 435 515 4 483 121 408 204 359 941 893 130 480 920 281 875 319 633 920 7 935 244 388 235 872 224 377 12 480 493 570 969 395 460 738 997 516 386 772 559 935 401 83 711 794 321 407 511 53 862 889 797 472 584 18 695 995 636 710 77 388 296 157 934 584 285 451 920 111 780 787 166 868 903 247 860 378 319 490 943 556 164 254 378 982 85 107 195 504 903 516 911 575 509 836 31 189 119 549 911 343 661 330 752 196 483 571 619 353 285 746 454 936 288 895 271 82 863 832 547 597 731 506 706 85 873 220 532 158 879 682 380 778 299 729 162 730 511 265 935 34 293 285 923 113 563 253 367 159 848 484 633 127 124 164 303 177 478 806 99 26 779 989 268 103 751 496 424 880 596 11 797 53 104 948 917 231 576 968 867 950 858 713 878 119 148 227 58 400 1 297 655 215 691 435 601 978 333 654 293 491 672 836 553 403 371 21 397 954 31 460 106 989 328 931 610 185 570 32 773 746 658 607 316 61 444 844 157 814 648 781 623 246 489 432 232 201 542 863 344 439 646 537 621 525 51 773 401 380 546 185 136 505 321 238 956 567 565 605 457 854 169 113 956 941 643 537 628 187 62 472 709 192 442 419 264 923 694 309 13 82 178 429 411 144 994 531 85 883 922 551 647 351 824 269 508 417 138 586 923 182 170 563 457 641 862 424 473 589 694 142 772 983 972 761 266 471 985 97 67 861 758 584 214 740 783 959 780 834 361 782 544 690 400 527 438 272
+Number of page frames: 
+
+[STEP 0]
+Miss! Page: 337
+Putting page 337 to frame 0
+
+[STEP 1]
+Miss! Page: 490
+Putting page 490 to frame 1
+
+[STEP 2]
+Miss! Page: 194
+Putting page 194 to frame 2
+
+[STEP 3]
+Clock is ticking!
+Miss! Page: 973
+Putting page 973 to frame 3
+
+[STEP 4]
+Miss! Page: 151
+Putting page 151 to frame 4
+
+[STEP 5]
+Miss! Page: 425
+Putting page 425 to frame 5
+
+[STEP 6]
+Clock is ticking!
+Miss! Page: 722
+Putting page 722 to frame 6
+
+[STEP 7]
+Miss! Page: 816
+Putting page 816 to frame 7
+
+[STEP 8]
+Miss! Page: 331
+Putting page 331 to frame 8
+
+[STEP 9]
+Clock is ticking!
+Miss! Page: 760
+Putting page 760 to frame 9
+
+[STEP 10]
+Clock is ticking!
+Miss! Page: 864
+Putting page 864 to frame 10
+
+[STEP 11]
+Clock is ticking!
+Miss! Page: 53
+Putting page 53 to frame 11
+
+[STEP 12]
+Miss! Page: 416
+Putting page 416 to frame 12
+
+[STEP 13]
+Miss! Page: 170
+Putting page 170 to frame 13
+
+[STEP 14]
+Miss! Page: 829
+Putting page 829 to frame 14
+
+[STEP 15]
+Miss! Page: 434
+Putting page 434 to frame 15
+
+[STEP 16]
+Clock is ticking!
+Miss! Page: 181
+Putting page 181 to frame 16
+
+[STEP 17]
+Miss! Page: 731
+Putting page 731 to frame 17
+
+[STEP 18]
+Miss! Page: 86
+Putting page 86 to frame 18
+
+[STEP 19]
+Miss! Page: 544
+Putting page 544 to frame 19
+
+[STEP 20]
+Miss! Page: 29
+Putting page 29 to frame 20
+
+[STEP 21]
+Miss! Page: 559
+Putting page 559 to frame 21
+
+[STEP 22]
+Miss! Page: 629
+Putting page 629 to frame 22
+
+[STEP 23]
+Miss! Page: 411
+Putting page 411 to frame 23
+
+[STEP 24]
+Miss! Page: 365
+Putting page 365 to frame 24
+
+[STEP 25]
+Miss! Page: 368
+Putting page 368 to frame 25
+
+[STEP 26]
+Clock is ticking!
+Miss! Page: 802
+Putting page 802 to frame 26
+
+[STEP 27]
+Clock is ticking!
+Miss! Page: 962
+Putting page 962 to frame 27
+
+[STEP 28]
+Miss! Page: 529
+Putting page 529 to frame 28
+
+[STEP 29]
+Miss! Page: 833
+Putting page 833 to frame 29
+
+[STEP 30]
+Miss! Page: 8
+Putting page 8 to frame 30
+
+[STEP 31]
+Miss! Page: 435
+Putting page 435 to frame 31
+
+[STEP 32]
+Miss! Page: 564
+Putting page 564 to frame 32
+
+[STEP 33]
+Miss! Page: 94
+Putting page 94 to frame 33
+
+[STEP 34]
+Miss! Page: 64
+Putting page 64 to frame 34
+
+[STEP 35]
+Clock is ticking!
+Miss! Page: 695
+Putting page 695 to frame 35
+
+[STEP 36]
+Miss! Page: 654
+Putting page 654 to frame 36
+
+[STEP 37]
+Miss! Page: 913
+Putting page 913 to frame 37
+
+[STEP 38]
+Miss! Page: 867
+Putting page 867 to frame 38
+
+[STEP 39]
+Miss! Page: 679
+Putting page 679 to frame 39
+
+[STEP 40]
+Miss! Page: 129
+Putting page 129 to frame 40
+
+[STEP 41]
+Clock is ticking!
+Miss! Page: 773
+Putting page 773 to frame 41
+
+[STEP 42]
+Miss! Page: 158
+Putting page 158 to frame 42
+
+[STEP 43]
+Clock is ticking!
+Miss! Page: 231
+Putting page 231 to frame 43
+
+[STEP 44]
+Clock is ticking!
+Miss! Page: 477
+Putting page 477 to frame 44
+
+[STEP 45]
+Clock is ticking!
+Miss! Page: 118
+Putting page 118 to frame 45
+
+[STEP 46]
+Clock is ticking!
+Miss! Page: 825
+Putting page 825 to frame 46
+
+[STEP 47]
+Miss! Page: 976
+Putting page 976 to frame 47
+
+[STEP 48]
+Miss! Page: 616
+Putting page 616 to frame 48
+
+[STEP 49]
+Miss! Page: 395
+Putting page 395 to frame 49
+
+[STEP 50]
+Miss! Page: 715
+Removing page 337 with counter 131072
+Putting page 715 to frame 0
+
+[STEP 51]
+Miss! Page: 870
+Removing page 490 with counter 131072
+Putting page 870 to frame 1
+
+[STEP 52]
+Miss! Page: 229
+Removing page 194 with counter 131072
+Putting page 229 to frame 2
+
+[STEP 53]
+Miss! Page: 687
+Removing page 973 with counter 262144
+Putting page 687 to frame 3
+
+[STEP 54]
+Miss! Page: 20
+Removing page 151 with counter 262144
+Putting page 20 to frame 4
+
+[STEP 55]
+Miss! Page: 160
+Removing page 425 with counter 262144
+Putting page 160 to frame 5
+
+[STEP 56]
+Miss! Page: 543
+Removing page 722 with counter 524288
+Putting page 543 to frame 6
+
+[STEP 57]
+Hit! Page: 231
+
+[STEP 58]
+Miss! Page: 977
+Removing page 816 with counter 524288
+Putting page 977 to frame 7
+
+[STEP 59]
+Miss! Page: 792
+Removing page 331 with counter 524288
+Putting page 792 to frame 8
+
+[STEP 60]
+Miss! Page: 942
+Removing page 760 with counter 1048576
+Putting page 942 to frame 9
+
+[STEP 61]
+Clock is ticking!
+Miss! Page: 680
+Removing page 864 with counter 1048576
+Putting page 680 to frame 10
+
+[STEP 62]
+Miss! Page: 81
+Removing page 53 with counter 2097152
+Putting page 81 to frame 11
+
+[STEP 63]
+Clock is ticking!
+Miss! Page: 257
+Removing page 416 with counter 1048576
+Putting page 257 to frame 12
+
+[STEP 64]
+Clock is ticking!
+Miss! Page: 314
+Removing page 170 with counter 524288
+Putting page 314 to frame 13
+
+[STEP 65]
+Clock is ticking!
+Miss! Page: 374
+Removing page 829 with counter 262144
+Putting page 374 to frame 14
+
+[STEP 66]
+Clock is ticking!
+Miss! Page: 354
+Removing page 434 with counter 131072
+Putting page 354 to frame 15
+
+[STEP 67]
+Miss! Page: 522
+Removing page 181 with counter 262144
+Putting page 522 to frame 16
+
+[STEP 68]
+Miss! Page: 464
+Removing page 731 with counter 262144
+Putting page 464 to frame 17
+
+[STEP 69]
+Clock is ticking!
+Miss! Page: 410
+Removing page 86 with counter 131072
+Putting page 410 to frame 18
+
+[STEP 70]
+Miss! Page: 462
+Removing page 544 with counter 131072
+Putting page 462 to frame 19
+
+[STEP 71]
+Clock is ticking!
+Miss! Page: 311
+Removing page 29 with counter 65536
+Putting page 311 to frame 20
+
+[STEP 72]
+Miss! Page: 82
+Removing page 559 with counter 65536
+Putting page 82 to frame 21
+
+[STEP 73]
+Clock is ticking!
+Miss! Page: 648
+Removing page 629 with counter 32768
+Putting page 648 to frame 22
+
+[STEP 74]
+Clock is ticking!
+Miss! Page: 299
+Removing page 411 with counter 16384
+Putting page 299 to frame 23
+
+[STEP 75]
+Clock is ticking!
+Miss! Page: 604
+Removing page 365 with counter 8192
+Putting page 604 to frame 24
+
+[STEP 76]
+Miss! Page: 588
+Removing page 368 with counter 8192
+Putting page 588 to frame 25
+
+[STEP 77]
+Miss! Page: 527
+Removing page 802 with counter 16384
+Putting page 527 to frame 26
+
+[STEP 78]
+Miss! Page: 131
+Removing page 962 with counter 32768
+Putting page 131 to frame 27
+
+[STEP 79]
+Miss! Page: 48
+Removing page 529 with counter 32768
+Putting page 48 to frame 28
+
+[STEP 80]
+Miss! Page: 32
+Removing page 833 with counter 32768
+Putting page 32 to frame 29
+
+[STEP 81]
+Miss! Page: 682
+Removing page 8 with counter 32768
+Putting page 682 to frame 30
+
+[STEP 82]
+Miss! Page: 295
+Removing page 435 with counter 32768
+Putting page 295 to frame 31
+
+[STEP 83]
+Miss! Page: 832
+Removing page 564 with counter 32768
+Putting page 832 to frame 32
+
+[STEP 84]
+Clock is ticking!
+Hit! Page: 131
+
+[STEP 85]
+Miss! Page: 35
+Removing page 94 with counter 16384
+Putting page 35 to frame 33
+
+[STEP 86]
+Miss! Page: 246
+Removing page 64 with counter 16384
+Putting page 246 to frame 34
+
+[STEP 87]
+Clock is ticking!
+Miss! Page: 148
+Removing page 695 with counter 16384
+Putting page 148 to frame 35
+
+[STEP 88]
+Miss! Page: 256
+Removing page 654 with counter 16384
+Putting page 256 to frame 36
+
+[STEP 89]
+Miss! Page: 970
+Removing page 913 with counter 16384
+Putting page 970 to frame 37
+
+[STEP 90]
+Miss! Page: 510
+Removing page 867 with counter 16384
+Putting page 510 to frame 38
+
+[STEP 91]
+Miss! Page: 668
+Removing page 679 with counter 16384
+Putting page 668 to frame 39
+
+[STEP 92]
+Clock is ticking!
+Miss! Page: 305
+Removing page 129 with counter 8192
+Putting page 305 to frame 40
+
+[STEP 93]
+Miss! Page: 356
+Removing page 773 with counter 16384
+Putting page 356 to frame 41
+
+[STEP 94]
+Miss! Page: 265
+Removing page 158 with counter 16384
+Putting page 265 to frame 42
+
+[STEP 95]
+Miss! Page: 5
+Removing page 477 with counter 65536
+Putting page 5 to frame 44
+
+[STEP 96]
+Miss! Page: 581
+Removing page 118 with counter 131072
+Putting page 581 to frame 45
+
+[STEP 97]
+Miss! Page: 436
+Removing page 715 with counter 262144
+Putting page 436 to frame 0
+
+[STEP 98]
+Clock is ticking!
+Miss! Page: 411
+Removing page 870 with counter 131072
+Putting page 411 to frame 1
+
+[STEP 99]
+Clock is ticking!
+Miss! Page: 864
+Removing page 229 with counter 65536
+Putting page 864 to frame 2
+
+[STEP 100]
+Miss! Page: 59
+Removing page 687 with counter 65536
+Putting page 59 to frame 3
+
+[STEP 101]
+Miss! Page: 444
+Removing page 20 with counter 65536
+Putting page 444 to frame 4
+
+[STEP 102]
+Clock is ticking!
+Miss! Page: 603
+Removing page 160 with counter 32768
+Putting page 603 to frame 5
+
+[STEP 103]
+Miss! Page: 392
+Removing page 543 with counter 32768
+Putting page 392 to frame 6
+
+[STEP 104]
+Miss! Page: 778
+Removing page 977 with counter 32768
+Putting page 778 to frame 7
+
+[STEP 105]
+Clock is ticking!
+Miss! Page: 42
+Removing page 792 with counter 16384
+Putting page 42 to frame 8
+
+[STEP 106]
+Miss! Page: 91
+Removing page 942 with counter 16384
+Putting page 91 to frame 9
+
+[STEP 107]
+Miss! Page: 740
+Removing page 825 with counter 16384
+Putting page 740 to frame 46
+
+[STEP 108]
+Miss! Page: 229
+Removing page 976 with counter 16384
+Putting page 229 to frame 47
+
+[STEP 109]
+Miss! Page: 774
+Removing page 616 with counter 16384
+Putting page 774 to frame 48
+
+[STEP 110]
+Miss! Page: 6
+Removing page 395 with counter 16384
+Putting page 6 to frame 49
+
+[STEP 111]
+Miss! Page: 253
+Removing page 231 with counter 18432
+Putting page 253 to frame 43
+
+[STEP 112]
+Miss! Page: 729
+Removing page 680 with counter 32768
+Putting page 729 to frame 10
+
+[STEP 113]
+Miss! Page: 182
+Removing page 81 with counter 32768
+Putting page 182 to frame 11
+
+[STEP 114]
+Clock is ticking!
+Miss! Page: 649
+Removing page 257 with counter 32768
+Putting page 649 to frame 12
+
+[STEP 115]
+Miss! Page: 666
+Removing page 314 with counter 65536
+Putting page 666 to frame 13
+
+[STEP 116]
+Miss! Page: 313
+Removing page 374 with counter 131072
+Putting page 313 to frame 14
+
+[STEP 117]
+Clock is ticking!
+Miss! Page: 198
+Removing page 354 with counter 131072
+Putting page 198 to frame 15
+
+[STEP 118]
+Miss! Page: 65
+Removing page 522 with counter 131072
+Putting page 65 to frame 16
+
+[STEP 119]
+Clock is ticking!
+Miss! Page: 540
+Removing page 464 with counter 65536
+Putting page 540 to frame 17
+
+[STEP 120]
+Clock is ticking!
+Hit! Page: 392
+
+[STEP 121]
+Clock is ticking!
+Miss! Page: 420
+Removing page 410 with counter 32768
+Putting page 420 to frame 18
+
+[STEP 122]
+Miss! Page: 132
+Removing page 462 with counter 32768
+Putting page 132 to frame 19
+
+[STEP 123]
+Miss! Page: 623
+Removing page 311 with counter 65536
+Putting page 623 to frame 20
+
+[STEP 124]
+Miss! Page: 155
+Removing page 82 with counter 65536
+Putting page 155 to frame 21
+
+[STEP 125]
+Miss! Page: 119
+Removing page 648 with counter 131072
+Putting page 119 to frame 22
+
+[STEP 126]
+Miss! Page: 781
+Removing page 299 with counter 262144
+Putting page 781 to frame 23
+
+[STEP 127]
+Clock is ticking!
+Miss! Page: 263
+Removing page 604 with counter 262144
+Putting page 263 to frame 24
+
+[STEP 128]
+Miss! Page: 752
+Removing page 588 with counter 262144
+Putting page 752 to frame 25
+
+[STEP 129]
+Miss! Page: 385
+Removing page 527 with counter 262144
+Putting page 385 to frame 26
+
+[STEP 130]
+Miss! Page: 809
+Removing page 48 with counter 262144
+Putting page 809 to frame 28
+
+[STEP 131]
+Miss! Page: 906
+Removing page 32 with counter 262144
+Putting page 906 to frame 29
+
+[STEP 132]
+Miss! Page: 790
+Removing page 682 with counter 262144
+Putting page 790 to frame 30
+
+[STEP 133]
+Clock is ticking!
+Miss! Page: 270
+Removing page 295 with counter 131072
+Putting page 270 to frame 31
+
+[STEP 134]
+Clock is ticking!
+Miss! Page: 960
+Removing page 832 with counter 65536
+Putting page 960 to frame 32
+
+[STEP 135]
+Miss! Page: 983
+Removing page 35 with counter 131072
+Putting page 983 to frame 33
+
+[STEP 136]
+Miss! Page: 881
+Removing page 246 with counter 131072
+Putting page 881 to frame 34
+
+[STEP 137]
+Miss! Page: 320
+Removing page 131 with counter 196608
+Putting page 320 to frame 27
+
+[STEP 138]
+Miss! Page: 122
+Removing page 148 with counter 262144
+Putting page 122 to frame 35
+
+[STEP 139]
+Miss! Page: 764
+Removing page 256 with counter 262144
+Putting page 764 to frame 36
+
+[STEP 140]
+Clock is ticking!
+Miss! Page: 861
+Removing page 970 with counter 131072
+Putting page 861 to frame 37
+
+[STEP 141]
+Miss! Page: 806
+Removing page 510 with counter 131072
+Putting page 806 to frame 38
+
+[STEP 142]
+Miss! Page: 555
+Removing page 668 with counter 131072
+Putting page 555 to frame 39
+
+[STEP 143]
+Miss! Page: 665
+Removing page 436 with counter 262144
+Putting page 665 to frame 0
+
+[STEP 144]
+Miss! Page: 191
+Removing page 305 with counter 262144
+Putting page 191 to frame 40
+
+[STEP 145]
+Miss! Page: 160
+Removing page 356 with counter 262144
+Putting page 160 to frame 41
+
+[STEP 146]
+Clock is ticking!
+Miss! Page: 192
+Removing page 265 with counter 131072
+Putting page 192 to frame 42
+
+[STEP 147]
+Miss! Page: 304
+Removing page 5 with counter 131072
+Putting page 304 to frame 44
+
+[STEP 148]
+Clock is ticking!
+Miss! Page: 129
+Removing page 581 with counter 65536
+Putting page 129 to frame 45
+
+[STEP 149]
+Miss! Page: 586
+Removing page 411 with counter 131072
+Putting page 586 to frame 1
+
+[STEP 150]
+Miss! Page: 207
+Removing page 864 with counter 262144
+Putting page 207 to frame 2
+
+[STEP 151]
+Miss! Page: 635
+Removing page 59 with counter 262144
+Putting page 635 to frame 3
+
+[STEP 152]
+Clock is ticking!
+Miss! Page: 300
+Removing page 444 with counter 131072
+Putting page 300 to frame 4
+
+[STEP 153]
+Miss! Page: 776
+Removing page 603 with counter 262144
+Putting page 776 to frame 5
+
+[STEP 154]
+Clock is ticking!
+Miss! Page: 281
+Removing page 778 with counter 131072
+Putting page 281 to frame 7
+
+[STEP 155]
+Miss! Page: 301
+Removing page 42 with counter 262144
+Putting page 301 to frame 8
+
+[STEP 156]
+Miss! Page: 724
+Removing page 91 with counter 262144
+Putting page 724 to frame 9
+
+[STEP 157]
+Miss! Page: 619
+Removing page 729 with counter 262144
+Putting page 619 to frame 10
+
+[STEP 158]
+Miss! Page: 64
+Removing page 182 with counter 262144
+Putting page 64 to frame 11
+
+[STEP 159]
+Clock is ticking!
+Miss! Page: 627
+Removing page 253 with counter 131072
+Putting page 627 to frame 43
+
+[STEP 160]
+Miss! Page: 934
+Removing page 740 with counter 131072
+Putting page 934 to frame 46
+
+[STEP 161]
+Miss! Page: 943
+Removing page 229 with counter 131072
+Putting page 943 to frame 47
+
+[STEP 162]
+Miss! Page: 380
+Removing page 774 with counter 131072
+Putting page 380 to frame 48
+
+[STEP 163]
+Miss! Page: 521
+Removing page 6 with counter 131072
+Putting page 521 to frame 49
+
+[STEP 164]
+Miss! Page: 910
+Removing page 649 with counter 262144
+Putting page 910 to frame 12
+
+[STEP 165]
+Miss! Page: 67
+Removing page 666 with counter 262144
+Putting page 67 to frame 13
+
+[STEP 166]
+Miss! Page: 902
+Removing page 313 with counter 262144
+Putting page 902 to frame 14
+
+[STEP 167]
+Miss! Page: 863
+Removing page 198 with counter 524288
+Putting page 863 to frame 15
+
+[STEP 168]
+Miss! Page: 500
+Removing page 65 with counter 524288
+Putting page 500 to frame 16
+
+[STEP 169]
+Miss! Page: 140
+Removing page 540 with counter 1048576
+Putting page 140 to frame 17
+
+[STEP 170]
+Miss! Page: 227
+Removing page 392 with counter 2162688
+Putting page 227 to frame 6
+
+[STEP 171]
+Miss! Page: 33
+Removing page 420 with counter 4194304
+Putting page 33 to frame 18
+
+[STEP 172]
+Miss! Page: 51
+Removing page 132 with counter 4194304
+Putting page 51 to frame 19
+
+[STEP 173]
+Miss! Page: 707
+Removing page 623 with counter 4194304
+Putting page 707 to frame 20
+
+[STEP 174]
+Miss! Page: 523
+Removing page 155 with counter 4194304
+Putting page 523 to frame 21
+
+[STEP 175]
+Clock is ticking!
+Miss! Page: 596
+Removing page 119 with counter 2097152
+Putting page 596 to frame 22
+
+[STEP 176]
+Miss! Page: 572
+Removing page 781 with counter 2097152
+Putting page 572 to frame 23
+
+[STEP 177]
+Clock is ticking!
+Miss! Page: 816
+Removing page 263 with counter 2097152
+Putting page 816 to frame 24
+
+[STEP 178]
+Miss! Page: 715
+Removing page 752 with counter 2097152
+Putting page 715 to frame 25
+
+[STEP 179]
+Miss! Page: 314
+Removing page 385 with counter 2097152
+Putting page 314 to frame 26
+
+[STEP 180]
+Clock is ticking!
+Miss! Page: 843
+Removing page 809 with counter 1048576
+Putting page 843 to frame 28
+
+[STEP 181]
+Hit! Page: 861
+
+[STEP 182]
+Miss! Page: 694
+Removing page 906 with counter 1048576
+Putting page 694 to frame 29
+
+[STEP 183]
+Miss! Page: 996
+Removing page 790 with counter 1048576
+Putting page 996 to frame 30
+
+[STEP 184]
+Miss! Page: 850
+Removing page 270 with counter 2097152
+Putting page 850 to frame 31
+
+[STEP 185]
+Miss! Page: 945
+Removing page 320 with counter 4194304
+Putting page 945 to frame 27
+
+[STEP 186]
+Clock is ticking!
+Miss! Page: 592
+Removing page 960 with counter 2097152
+Putting page 592 to frame 32
+
+[STEP 187]
+Miss! Page: 699
+Removing page 983 with counter 2097152
+Putting page 699 to frame 33
+
+[STEP 188]
+Miss! Page: 912
+Removing page 881 with counter 2097152
+Putting page 912 to frame 34
+
+[STEP 189]
+Miss! Page: 284
+Removing page 122 with counter 2097152
+Putting page 284 to frame 35
+
+[STEP 190]
+Miss! Page: 361
+Removing page 764 with counter 2097152
+Putting page 361 to frame 36
+
+[STEP 191]
+Miss! Page: 518
+Removing page 665 with counter 4194304
+Putting page 518 to frame 0
+
+[STEP 192]
+Miss! Page: 529
+Removing page 806 with counter 4194304
+Putting page 529 to frame 38
+
+[STEP 193]
+Clock is ticking!
+Hit! Page: 850
+
+[STEP 194]
+Clock is ticking!
+Miss! Page: 4
+Removing page 555 with counter 1048576
+Putting page 4 to frame 39
+
+[STEP 195]
+Miss! Page: 118
+Removing page 191 with counter 1048576
+Putting page 118 to frame 40
+
+[STEP 196]
+Miss! Page: 248
+Removing page 160 with counter 1048576
+Putting page 248 to frame 41
+
+[STEP 197]
+Miss! Page: 976
+Removing page 192 with counter 2097152
+Putting page 976 to frame 42
+
+[STEP 198]
+Miss! Page: 827
+Removing page 304 with counter 2097152
+Putting page 827 to frame 44
+
+[STEP 199]
+Miss! Page: 412
+Removing page 586 with counter 4194304
+Putting page 412 to frame 1
+
+[STEP 200]
+Clock is ticking!
+Miss! Page: 586
+Removing page 207 with counter 2097152
+Putting page 586 to frame 2
+
+[STEP 201]
+Miss! Page: 817
+Removing page 635 with counter 2097152
+Putting page 817 to frame 3
+
+[STEP 202]
+Miss! Page: 305
+Removing page 129 with counter 2097152
+Putting page 305 to frame 45
+
+[STEP 203]
+Clock is ticking!
+Miss! Page: 561
+Removing page 300 with counter 2097152
+Putting page 561 to frame 4
+
+[STEP 204]
+Miss! Page: 731
+Removing page 776 with counter 2097152
+Putting page 731 to frame 5
+
+[STEP 205]
+Miss! Page: 877
+Removing page 281 with counter 4194304
+Putting page 877 to frame 7
+
+[STEP 206]
+Clock is ticking!
+Miss! Page: 450
+Removing page 301 with counter 2097152
+Putting page 450 to frame 8
+
+[STEP 207]
+Miss! Page: 988
+Removing page 724 with counter 2097152
+Putting page 988 to frame 9
+
+[STEP 208]
+Clock is ticking!
+Miss! Page: 563
+Removing page 619 with counter 1048576
+Putting page 563 to frame 10
+
+[STEP 209]
+Miss! Page: 901
+Removing page 64 with counter 1048576
+Putting page 901 to frame 11
+
+[STEP 210]
+Miss! Page: 23
+Removing page 227 with counter 2097152
+Putting page 23 to frame 6
+
+[STEP 211]
+Miss! Page: 554
+Removing page 910 with counter 2097152
+Putting page 554 to frame 12
+
+[STEP 212]
+Miss! Page: 873
+Removing page 67 with counter 2097152
+Putting page 873 to frame 13
+
+[STEP 213]
+Clock is ticking!
+Miss! Page: 277
+Removing page 902 with counter 1048576
+Putting page 277 to frame 14
+
+[STEP 214]
+Miss! Page: 703
+Removing page 863 with counter 1048576
+Putting page 703 to frame 15
+
+[STEP 215]
+Miss! Page: 290
+Removing page 500 with counter 1048576
+Putting page 290 to frame 16
+
+[STEP 216]
+Clock is ticking!
+Miss! Page: 53
+Removing page 140 with counter 524288
+Putting page 53 to frame 17
+
+[STEP 217]
+Miss! Page: 613
+Removing page 33 with counter 524288
+Putting page 613 to frame 18
+
+[STEP 218]
+Clock is ticking!
+Miss! Page: 713
+Removing page 51 with counter 262144
+Putting page 713 to frame 19
+
+[STEP 219]
+Clock is ticking!
+Miss! Page: 77
+Removing page 707 with counter 131072
+Putting page 77 to frame 20
+
+[STEP 220]
+Miss! Page: 45
+Removing page 523 with counter 131072
+Putting page 45 to frame 21
+
+[STEP 221]
+Hit! Page: 850
+
+[STEP 222]
+Miss! Page: 68
+Removing page 627 with counter 131072
+Putting page 68 to frame 43
+
+[STEP 223]
+Miss! Page: 202
+Removing page 934 with counter 131072
+Putting page 202 to frame 46
+
+[STEP 224]
+Clock is ticking!
+Miss! Page: 717
+Removing page 943 with counter 65536
+Putting page 717 to frame 47
+
+[STEP 225]
+Miss! Page: 70
+Removing page 380 with counter 65536
+Putting page 70 to frame 48
+
+[STEP 226]
+Miss! Page: 865
+Removing page 521 with counter 65536
+Putting page 865 to frame 49
+
+[STEP 227]
+Clock is ticking!
+Miss! Page: 194
+Removing page 596 with counter 65536
+Putting page 194 to frame 22
+
+[STEP 228]
+Miss! Page: 2
+Removing page 572 with counter 65536
+Putting page 2 to frame 23
+
+[STEP 229]
+Miss! Page: 420
+Removing page 816 with counter 131072
+Putting page 420 to frame 24
+
+[STEP 230]
+Miss! Page: 240
+Removing page 715 with counter 131072
+Putting page 240 to frame 25
+
+[STEP 231]
+Miss! Page: 819
+Removing page 314 with counter 131072
+Putting page 819 to frame 26
+
+[STEP 232]
+Miss! Page: 581
+Removing page 945 with counter 262144
+Putting page 581 to frame 27
+
+[STEP 233]
+Miss! Page: 193
+Removing page 843 with counter 262144
+Putting page 193 to frame 28
+
+[STEP 234]
+Miss! Page: 353
+Removing page 694 with counter 262144
+Putting page 353 to frame 29
+
+[STEP 235]
+Clock is ticking!
+Miss! Page: 138
+Removing page 996 with counter 131072
+Putting page 138 to frame 30
+
+[STEP 236]
+Miss! Page: 890
+Removing page 861 with counter 131584
+Putting page 890 to frame 37
+
+[STEP 237]
+Miss! Page: 579
+Removing page 518 with counter 262144
+Putting page 579 to frame 0
+
+[STEP 238]
+Hit! Page: 138
+
+[STEP 239]
+Clock is ticking!
+Miss! Page: 483
+Removing page 138 with counter 0
+Putting page 483 to frame 30
+
+[STEP 240]
+Miss! Page: 131
+Removing page 592 with counter 131072
+Putting page 131 to frame 32
+
+[STEP 241]
+Miss! Page: 9
+Removing page 699 with counter 131072
+Putting page 9 to frame 33
+
+[STEP 242]
+Miss! Page: 237
+Removing page 912 with counter 131072
+Putting page 237 to frame 34
+
+[STEP 243]
+Clock is ticking!
+Miss! Page: 427
+Removing page 284 with counter 65536
+Putting page 427 to frame 35
+
+[STEP 244]
+Miss! Page: 60
+Removing page 361 with counter 65536
+Putting page 60 to frame 36
+
+[STEP 245]
+Miss! Page: 82
+Removing page 529 with counter 65536
+Putting page 82 to frame 38
+
+[STEP 246]
+Miss! Page: 163
+Removing page 412 with counter 262144
+Putting page 163 to frame 1
+
+[STEP 247]
+Miss! Page: 842
+Removing page 4 with counter 262144
+Putting page 842 to frame 39
+
+[STEP 248]
+Miss! Page: 538
+Removing page 118 with counter 262144
+Putting page 538 to frame 40
+
+[STEP 249]
+Miss! Page: 213
+Removing page 248 with counter 262144
+Putting page 213 to frame 41
+
+[STEP 250]
+Miss! Page: 648
+Removing page 976 with counter 262144
+Putting page 648 to frame 42
+
+[STEP 251]
+Miss! Page: 759
+Removing page 827 with counter 262144
+Putting page 759 to frame 44
+
+[STEP 252]
+Miss! Page: 837
+Removing page 586 with counter 524288
+Putting page 837 to frame 2
+
+[STEP 253]
+Miss! Page: 122
+Removing page 817 with counter 524288
+Putting page 122 to frame 3
+
+[STEP 254]
+Clock is ticking!
+Miss! Page: 262
+Removing page 305 with counter 262144
+Putting page 262 to frame 45
+
+[STEP 255]
+Miss! Page: 657
+Removing page 561 with counter 524288
+Putting page 657 to frame 4
+
+[STEP 256]
+Clock is ticking!
+Miss! Page: 334
+Removing page 731 with counter 262144
+Putting page 334 to frame 5
+
+[STEP 257]
+Miss! Page: 569
+Removing page 877 with counter 262144
+Putting page 569 to frame 7
+
+[STEP 258]
+Miss! Page: 668
+Removing page 450 with counter 524288
+Putting page 668 to frame 8
+
+[STEP 259]
+Miss! Page: 381
+Removing page 988 with counter 524288
+Putting page 381 to frame 9
+
+[STEP 260]
+Miss! Page: 695
+Removing page 23 with counter 1048576
+Putting page 695 to frame 6
+
+[STEP 261]
+Clock is ticking!
+Miss! Page: 553
+Removing page 563 with counter 524288
+Putting page 553 to frame 10
+
+[STEP 262]
+Miss! Page: 388
+Removing page 901 with counter 524288
+Putting page 388 to frame 11
+
+[STEP 263]
+Miss! Page: 814
+Removing page 554 with counter 524288
+Putting page 814 to frame 12
+
+[STEP 264]
+Miss! Page: 952
+Removing page 873 with counter 524288
+Putting page 952 to frame 13
+
+[STEP 265]
+Miss! Page: 292
+Removing page 277 with counter 1048576
+Putting page 292 to frame 14
+
+[STEP 266]
+Hit! Page: 290
+
+[STEP 267]
+Miss! Page: 243
+Removing page 703 with counter 1048576
+Putting page 243 to frame 15
+
+[STEP 268]
+Miss! Page: 399
+Removing page 53 with counter 2097152
+Putting page 399 to frame 17
+
+[STEP 269]
+Miss! Page: 495
+Removing page 613 with counter 2097152
+Putting page 495 to frame 18
+
+[STEP 270]
+Miss! Page: 32
+Removing page 713 with counter 4194304
+Putting page 32 to frame 19
+
+[STEP 271]
+Miss! Page: 178
+Removing page 77 with counter 8388608
+Putting page 178 to frame 20
+
+[STEP 272]
+Clock is ticking!
+Miss! Page: 770
+Removing page 45 with counter 4194304
+Putting page 770 to frame 21
+
+[STEP 273]
+Miss! Page: 436
+Removing page 68 with counter 4194304
+Putting page 436 to frame 43
+
+[STEP 274]
+Miss! Page: 26
+Removing page 202 with counter 4194304
+Putting page 26 to frame 46
+
+[STEP 275]
+Miss! Page: 467
+Removing page 850 with counter 4204544
+Putting page 467 to frame 31
+
+[STEP 276]
+Clock is ticking!
+Miss! Page: 431
+Removing page 717 with counter 4194304
+Putting page 431 to frame 47
+
+[STEP 277]
+Miss! Page: 456
+Removing page 70 with counter 4194304
+Putting page 456 to frame 48
+
+[STEP 278]
+Miss! Page: 762
+Removing page 865 with counter 4194304
+Putting page 762 to frame 49
+
+[STEP 279]
+Clock is ticking!
+Miss! Page: 446
+Removing page 194 with counter 4194304
+Putting page 446 to frame 22
+
+[STEP 280]
+Miss! Page: 462
+Removing page 2 with counter 4194304
+Putting page 462 to frame 23
+
+[STEP 281]
+Miss! Page: 277
+Removing page 420 with counter 4194304
+Putting page 277 to frame 24
+
+[STEP 282]
+Miss! Page: 398
+Removing page 240 with counter 4194304
+Putting page 398 to frame 25
+
+[STEP 283]
+Miss! Page: 557
+Removing page 819 with counter 4194304
+Putting page 557 to frame 26
+
+[STEP 284]
+Clock is ticking!
+Miss! Page: 98
+Removing page 581 with counter 2097152
+Putting page 98 to frame 27
+
+[STEP 285]
+Miss! Page: 434
+Removing page 193 with counter 2097152
+Putting page 434 to frame 28
+
+[STEP 286]
+Miss! Page: 893
+Removing page 353 with counter 2097152
+Putting page 893 to frame 29
+
+[STEP 287]
+Miss! Page: 606
+Removing page 579 with counter 4194304
+Putting page 606 to frame 0
+
+[STEP 288]
+Miss! Page: 91
+Removing page 890 with counter 4194304
+Putting page 91 to frame 37
+
+[STEP 289]
+Miss! Page: 972
+Removing page 483 with counter 8388608
+Putting page 972 to frame 30
+
+[STEP 290]
+Miss! Page: 176
+Removing page 131 with counter 8388608
+Putting page 176 to frame 32
+
+[STEP 291]
+Miss! Page: 923
+Removing page 9 with counter 8388608
+Putting page 923 to frame 33
+
+[STEP 292]
+Miss! Page: 85
+Removing page 237 with counter 8388608
+Putting page 85 to frame 34
+
+[STEP 293]
+Miss! Page: 592
+Removing page 163 with counter 16777216
+Putting page 592 to frame 1
+
+[STEP 294]
+Clock is ticking!
+Miss! Page: 960
+Removing page 837 with counter 8388608
+Putting page 960 to frame 2
+
+[STEP 295]
+Clock is ticking!
+Miss! Page: 420
+Removing page 122 with counter 4194304
+Putting page 420 to frame 3
+
+[STEP 296]
+Miss! Page: 662
+Removing page 427 with counter 4194304
+Putting page 662 to frame 35
+
+[STEP 297]
+Miss! Page: 354
+Removing page 60 with counter 4194304
+Putting page 354 to frame 36
+
+[STEP 298]
+Miss! Page: 990
+Removing page 82 with counter 4194304
+Putting page 990 to frame 38
+
+[STEP 299]
+Miss! Page: 859
+Removing page 842 with counter 4194304
+Putting page 859 to frame 39
+
+[STEP 300]
+Miss! Page: 699
+Removing page 538 with counter 4194304
+Putting page 699 to frame 40
+
+[STEP 301]
+Miss! Page: 96
+Removing page 213 with counter 4194304
+Putting page 96 to frame 41
+
+[STEP 302]
+Hit! Page: 814
+
+[STEP 303]
+Miss! Page: 640
+Removing page 648 with counter 4194304
+Putting page 640 to frame 42
+
+[STEP 304]
+Clock is ticking!
+Miss! Page: 263
+Removing page 759 with counter 2097152
+Putting page 263 to frame 44
+
+[STEP 305]
+Miss! Page: 776
+Removing page 657 with counter 4194304
+Putting page 776 to frame 4
+
+[STEP 306]
+Miss! Page: 437
+Removing page 262 with counter 4194304
+Putting page 437 to frame 45
+
+[STEP 307]
+Miss! Page: 886
+Removing page 334 with counter 8388608
+Putting page 886 to frame 5
+
+[STEP 308]
+Miss! Page: 447
+Removing page 695 with counter 8388608
+Putting page 447 to frame 6
+
+[STEP 309]
+Miss! Page: 879
+Removing page 569 with counter 8388608
+Putting page 879 to frame 7
+
+[STEP 310]
+Miss! Page: 236
+Removing page 668 with counter 8388608
+Putting page 236 to frame 8
+
+[STEP 311]
+Miss! Page: 571
+Removing page 381 with counter 8388608
+Putting page 571 to frame 9
+
+[STEP 312]
+Clock is ticking!
+Miss! Page: 693
+Removing page 553 with counter 8388608
+Putting page 693 to frame 10
+
+[STEP 313]
+Miss! Page: 289
+Removing page 388 with counter 8388608
+Putting page 289 to frame 11
+
+[STEP 314]
+Miss! Page: 708
+Removing page 952 with counter 8388608
+Putting page 708 to frame 13
+
+[STEP 315]
+Miss! Page: 121
+Removing page 292 with counter 8388608
+Putting page 121 to frame 14
+
+[STEP 316]
+Clock is ticking!
+Miss! Page: 792
+Removing page 243 with counter 4194304
+Putting page 792 to frame 15
+
+[STEP 317]
+Miss! Page: 228
+Removing page 399 with counter 4194304
+Putting page 228 to frame 17
+
+[STEP 318]
+Clock is ticking!
+Miss! Page: 273
+Removing page 495 with counter 2097152
+Putting page 273 to frame 18
+
+[STEP 319]
+Clock is ticking!
+Miss! Page: 620
+Removing page 32 with counter 1048576
+Putting page 620 to frame 19
+
+[STEP 320]
+Miss! Page: 408
+Removing page 178 with counter 1048576
+Putting page 408 to frame 20
+
+[STEP 321]
+Clock is ticking!
+Miss! Page: 644
+Removing page 290 with counter 524544
+Putting page 644 to frame 16
+
+[STEP 322]
+Miss! Page: 190
+Removing page 770 with counter 1048576
+Putting page 190 to frame 21
+
+[STEP 323]
+Miss! Page: 973
+Removing page 467 with counter 1048576
+Putting page 973 to frame 31
+
+[STEP 324]
+Miss! Page: 348
+Removing page 436 with counter 1048576
+Putting page 348 to frame 43
+
+[STEP 325]
+Hit! Page: 708
+
+[STEP 326]
+Miss! Page: 461
+Removing page 26 with counter 1048576
+Putting page 461 to frame 46
+
+[STEP 327]
+Clock is ticking!
+Miss! Page: 748
+Removing page 431 with counter 1048576
+Putting page 748 to frame 47
+
+[STEP 328]
+Miss! Page: 835
+Removing page 456 with counter 1048576
+Putting page 835 to frame 48
+
+[STEP 329]
+Miss! Page: 530
+Removing page 762 with counter 1048576
+Putting page 530 to frame 49
+
+[STEP 330]
+Miss! Page: 790
+Removing page 446 with counter 2097152
+Putting page 790 to frame 22
+
+[STEP 331]
+Clock is ticking!
+Miss! Page: 63
+Removing page 462 with counter 1048576
+Putting page 63 to frame 23
+
+[STEP 332]
+Clock is ticking!
+Miss! Page: 26
+Removing page 277 with counter 524288
+Putting page 26 to frame 24
+
+[STEP 333]
+Miss! Page: 219
+Removing page 398 with counter 524288
+Putting page 219 to frame 25
+
+[STEP 334]
+Miss! Page: 881
+Removing page 557 with counter 524288
+Putting page 881 to frame 26
+
+[STEP 335]
+Miss! Page: 540
+Removing page 606 with counter 1048576
+Putting page 540 to frame 0
+
+[STEP 336]
+Miss! Page: 947
+Removing page 592 with counter 1048576
+Putting page 947 to frame 1
+
+[STEP 337]
+Miss! Page: 142
+Removing page 98 with counter 1048576
+Putting page 142 to frame 27
+
+[STEP 338]
+Miss! Page: 337
+Removing page 434 with counter 1048576
+Putting page 337 to frame 28
+
+[STEP 339]
+Miss! Page: 882
+Removing page 893 with counter 1048576
+Putting page 882 to frame 29
+
+[STEP 340]
+Clock is ticking!
+Miss! Page: 521
+Removing page 972 with counter 524288
+Putting page 521 to frame 30
+
+[STEP 341]
+Miss! Page: 647
+Removing page 176 with counter 524288
+Putting page 647 to frame 32
+
+[STEP 342]
+Clock is ticking!
+Miss! Page: 833
+Removing page 923 with counter 262144
+Putting page 833 to frame 33
+
+[STEP 343]
+Hit! Page: 437
+
+[STEP 344]
+Clock is ticking!
+Miss! Page: 643
+Removing page 85 with counter 131072
+Putting page 643 to frame 34
+
+[STEP 345]
+Clock is ticking!
+Miss! Page: 6
+Removing page 91 with counter 65536
+Putting page 6 to frame 37
+
+[STEP 346]
+Clock is ticking!
+Miss! Page: 995
+Removing page 960 with counter 65536
+Putting page 995 to frame 2
+
+[STEP 347]
+Miss! Page: 499
+Removing page 420 with counter 131072
+Putting page 499 to frame 3
+
+[STEP 348]
+Clock is ticking!
+Hit! Page: 530
+
+[STEP 349]
+Miss! Page: 688
+Removing page 662 with counter 65536
+Putting page 688 to frame 35
+
+[STEP 350]
+Miss! Page: 83
+Removing page 354 with counter 65536
+Putting page 83 to frame 36
+
+[STEP 351]
+Miss! Page: 491
+Removing page 990 with counter 65536
+Putting page 491 to frame 38
+
+[STEP 352]
+Miss! Page: 675
+Removing page 859 with counter 65536
+Putting page 675 to frame 39
+
+[STEP 353]
+Clock is ticking!
+Hit! Page: 190
+
+[STEP 354]
+Clock is ticking!
+Miss! Page: 259
+Removing page 699 with counter 16384
+Putting page 259 to frame 40
+
+[STEP 355]
+Clock is ticking!
+Miss! Page: 858
+Removing page 96 with counter 8192
+Putting page 858 to frame 41
+
+[STEP 356]
+Clock is ticking!
+Miss! Page: 975
+Removing page 640 with counter 4096
+Putting page 975 to frame 42
+
+[STEP 357]
+Miss! Page: 281
+Removing page 814 with counter 4160
+Putting page 281 to frame 12
+
+[STEP 358]
+Clock is ticking!
+Miss! Page: 814
+Removing page 776 with counter 4096
+Putting page 814 to frame 4
+
+[STEP 359]
+Miss! Page: 396
+Removing page 886 with counter 4096
+Putting page 396 to frame 5
+
+[STEP 360]
+Miss! Page: 435
+Removing page 447 with counter 4096
+Putting page 435 to frame 6
+
+[STEP 361]
+Miss! Page: 354
+Removing page 879 with counter 4096
+Putting page 354 to frame 7
+
+[STEP 362]
+Miss! Page: 54
+Removing page 236 with counter 4096
+Putting page 54 to frame 8
+
+[STEP 363]
+Miss! Page: 165
+Removing page 571 with counter 4096
+Putting page 165 to frame 9
+
+[STEP 364]
+Miss! Page: 110
+Removing page 263 with counter 4096
+Putting page 110 to frame 44
+
+[STEP 365]
+Clock is ticking!
+Hit! Page: 219
+
+[STEP 366]
+Miss! Page: 861
+Removing page 693 with counter 4096
+Putting page 861 to frame 10
+
+[STEP 367]
+Miss! Page: 40
+Removing page 289 with counter 4096
+Putting page 40 to frame 11
+
+[STEP 368]
+Clock is ticking!
+Miss! Page: 15
+Removing page 121 with counter 2048
+Putting page 15 to frame 14
+
+[STEP 369]
+Miss! Page: 866
+Removing page 792 with counter 4096
+Putting page 866 to frame 15
+
+[STEP 370]
+Clock is ticking!
+Miss! Page: 10
+Removing page 228 with counter 2048
+Putting page 10 to frame 17
+
+[STEP 371]
+Miss! Page: 418
+Removing page 273 with counter 4096
+Putting page 418 to frame 18
+
+[STEP 372]
+Miss! Page: 520
+Removing page 620 with counter 8192
+Putting page 520 to frame 19
+
+[STEP 373]
+Clock is ticking!
+Hit! Page: 858
+
+[STEP 374]
+Miss! Page: 903
+Removing page 408 with counter 4096
+Putting page 903 to frame 20
+
+[STEP 375]
+Miss! Page: 526
+Removing page 644 with counter 8192
+Putting page 526 to frame 16
+
+[STEP 376]
+Miss! Page: 113
+Removing page 973 with counter 8192
+Putting page 113 to frame 31
+
+[STEP 377]
+Miss! Page: 811
+Removing page 348 with counter 8192
+Putting page 811 to frame 43
+
+[STEP 378]
+Miss! Page: 62
+Removing page 461 with counter 8192
+Putting page 62 to frame 46
+
+[STEP 379]
+Miss! Page: 140
+Removing page 708 with counter 8704
+Putting page 140 to frame 13
+
+[STEP 380]
+Miss! Page: 84
+Removing page 790 with counter 16384
+Putting page 84 to frame 22
+
+[STEP 381]
+Miss! Page: 466
+Removing page 748 with counter 16384
+Putting page 466 to frame 47
+
+[STEP 382]
+Miss! Page: 316
+Removing page 835 with counter 16384
+Putting page 316 to frame 48
+
+[STEP 383]
+Miss! Page: 144
+Removing page 63 with counter 32768
+Putting page 144 to frame 23
+
+[STEP 384]
+Hit! Page: 54
+
+[STEP 385]
+Miss! Page: 926
+Removing page 540 with counter 65536
+Putting page 926 to frame 0
+
+[STEP 386]
+Miss! Page: 714
+Removing page 947 with counter 65536
+Putting page 714 to frame 1
+
+[STEP 387]
+Hit! Page: 814
+
+[STEP 388]
+Miss! Page: 470
+Removing page 26 with counter 65536
+Putting page 470 to frame 24
+
+[STEP 389]
+Miss! Page: 315
+Removing page 881 with counter 65536
+Putting page 315 to frame 26
+
+[STEP 390]
+Clock is ticking!
+Miss! Page: 615
+Removing page 142 with counter 32768
+Putting page 615 to frame 27
+
+[STEP 391]
+Clock is ticking!
+Miss! Page: 177
+Removing page 337 with counter 16384
+Putting page 177 to frame 28
+
+[STEP 392]
+Clock is ticking!
+Miss! Page: 200
+Removing page 882 with counter 8192
+Putting page 200 to frame 29
+
+[STEP 393]
+Miss! Page: 691
+Removing page 521 with counter 16384
+Putting page 691 to frame 30
+
+[STEP 394]
+Clock is ticking!
+Miss! Page: 704
+Removing page 647 with counter 8192
+Putting page 704 to frame 32
+
+[STEP 395]
+Miss! Page: 901
+Removing page 833 with counter 16384
+Putting page 901 to frame 33
+
+[STEP 396]
+Clock is ticking!
+Miss! Page: 301
+Removing page 437 with counter 8200
+Putting page 301 to frame 45
+
+[STEP 397]
+Clock is ticking!
+Miss! Page: 569
+Removing page 643 with counter 8192
+Putting page 569 to frame 34
+
+[STEP 398]
+Clock is ticking!
+Miss! Page: 568
+Removing page 6 with counter 8192
+Putting page 568 to frame 37
+
+[STEP 399]
+Miss! Page: 249
+Removing page 995 with counter 16384
+Putting page 249 to frame 2
+
+[STEP 400]
+Clock is ticking!
+Miss! Page: 767
+Removing page 499 with counter 8192
+Putting page 767 to frame 3
+
+[STEP 401]
+Clock is ticking!
+Miss! Page: 124
+Removing page 688 with counter 8192
+Putting page 124 to frame 35
+
+[STEP 402]
+Miss! Page: 161
+Removing page 83 with counter 8192
+Putting page 161 to frame 36
+
+[STEP 403]
+Miss! Page: 56
+Removing page 491 with counter 8192
+Putting page 56 to frame 38
+
+[STEP 404]
+Miss! Page: 695
+Removing page 675 with counter 8192
+Putting page 695 to frame 39
+
+[STEP 405]
+Miss! Page: 263
+Removing page 530 with counter 8224
+Putting page 263 to frame 49
+
+[STEP 406]
+Miss! Page: 924
+Removing page 190 with counter 16400
+Putting page 924 to frame 21
+
+[STEP 407]
+Miss! Page: 283
+Removing page 259 with counter 32768
+Putting page 283 to frame 40
+
+[STEP 408]
+Miss! Page: 575
+Removing page 281 with counter 131072
+Putting page 575 to frame 12
+
+[STEP 409]
+Miss! Page: 539
+Removing page 975 with counter 131072
+Putting page 539 to frame 42
+
+[STEP 410]
+Miss! Page: 368
+Removing page 396 with counter 262144
+Putting page 368 to frame 5
+
+[STEP 411]
+Miss! Page: 383
+Removing page 435 with counter 262144
+Putting page 383 to frame 6
+
+[STEP 412]
+Miss! Page: 436
+Removing page 354 with counter 262144
+Putting page 436 to frame 7
+
+[STEP 413]
+Miss! Page: 872
+Removing page 165 with counter 262144
+Putting page 872 to frame 9
+
+[STEP 414]
+Clock is ticking!
+Miss! Page: 809
+Removing page 110 with counter 131072
+Putting page 809 to frame 44
+
+[STEP 415]
+Miss! Page: 631
+Removing page 861 with counter 262144
+Putting page 631 to frame 10
+
+[STEP 416]
+Miss! Page: 267
+Removing page 40 with counter 262144
+Putting page 267 to frame 11
+
+[STEP 417]
+Miss! Page: 119
+Removing page 219 with counter 262208
+Putting page 119 to frame 25
+
+[STEP 418]
+Miss! Page: 146
+Removing page 15 with counter 524288
+Putting page 146 to frame 14
+
+[STEP 419]
+Miss! Page: 551
+Removing page 866 with counter 524288
+Putting page 551 to frame 15
+
+[STEP 420]
+Clock is ticking!
+Miss! Page: 178
+Removing page 10 with counter 524288
+Putting page 178 to frame 17
+
+[STEP 421]
+Miss! Page: 909
+Removing page 418 with counter 524288
+Putting page 909 to frame 18
+
+[STEP 422]
+Miss! Page: 450
+Removing page 520 with counter 524288
+Putting page 450 to frame 19
+
+[STEP 423]
+Miss! Page: 742
+Removing page 926 with counter 1048576
+Putting page 742 to frame 0
+
+[STEP 424]
+Miss! Page: 992
+Removing page 714 with counter 1048576
+Putting page 992 to frame 1
+
+[STEP 425]
+Miss! Page: 940
+Removing page 140 with counter 1048576
+Putting page 940 to frame 13
+
+[STEP 426]
+Miss! Page: 314
+Removing page 526 with counter 1048576
+Putting page 314 to frame 16
+
+[STEP 427]
+Miss! Page: 439
+Removing page 903 with counter 1048576
+Putting page 439 to frame 20
+
+[STEP 428]
+Miss! Page: 252
+Removing page 84 with counter 1048576
+Putting page 252 to frame 22
+
+[STEP 429]
+Clock is ticking!
+Miss! Page: 499
+Removing page 144 with counter 524288
+Putting page 499 to frame 23
+
+[STEP 430]
+Miss! Page: 540
+Removing page 470 with counter 524288
+Putting page 540 to frame 24
+
+[STEP 431]
+Miss! Page: 868
+Removing page 315 with counter 524288
+Putting page 868 to frame 26
+
+[STEP 432]
+Miss! Page: 156
+Removing page 113 with counter 524288
+Putting page 156 to frame 31
+
+[STEP 433]
+Clock is ticking!
+Hit! Page: 249
+
+[STEP 434]
+Miss! Page: 605
+Removing page 811 with counter 262144
+Putting page 605 to frame 43
+
+[STEP 435]
+Hit! Page: 156
+
+[STEP 436]
+Miss! Page: 986
+Removing page 62 with counter 262144
+Putting page 986 to frame 46
+
+[STEP 437]
+Miss! Page: 422
+Removing page 466 with counter 262144
+Putting page 422 to frame 47
+
+[STEP 438]
+Miss! Page: 981
+Removing page 316 with counter 262144
+Putting page 981 to frame 48
+
+[STEP 439]
+Hit! Page: 146
+
+[STEP 440]
+Clock is ticking!
+Miss! Page: 882
+Removing page 858 with counter 133120
+Putting page 882 to frame 41
+
+[STEP 441]
+Miss! Page: 246
+Removing page 814 with counter 139264
+Putting page 246 to frame 4
+
+[STEP 442]
+Clock is ticking!
+Miss! Page: 651
+Removing page 54 with counter 69632
+Putting page 651 to frame 8
+
+[STEP 443]
+Miss! Page: 865
+Removing page 615 with counter 131072
+Putting page 865 to frame 27
+
+[STEP 444]
+Clock is ticking!
+Miss! Page: 746
+Removing page 177 with counter 131072
+Putting page 746 to frame 28
+
+[STEP 445]
+Miss! Page: 661
+Removing page 200 with counter 262144
+Putting page 661 to frame 29
+
+[STEP 446]
+Hit! Page: 767
+
+[STEP 447]
+Clock is ticking!
+Miss! Page: 41
+Removing page 691 with counter 131072
+Putting page 41 to frame 30
+
+[STEP 448]
+Miss! Page: 948
+Removing page 704 with counter 262144
+Putting page 948 to frame 32
+
+[STEP 449]
+Miss! Page: 298
+Removing page 901 with counter 262144
+Putting page 298 to frame 33
+
+[STEP 450]
+Miss! Page: 356
+Removing page 301 with counter 524288
+Putting page 356 to frame 45
+
+[STEP 451]
+Miss! Page: 857
+Removing page 569 with counter 1048576
+Putting page 857 to frame 34
+
+[STEP 452]
+Hit! Page: 865
+
+[STEP 453]
+Clock is ticking!
+Miss! Page: 637
+Removing page 568 with counter 1048576
+Putting page 637 to frame 37
+
+[STEP 454]
+Miss! Page: 520
+Removing page 368 with counter 4194304
+Putting page 520 to frame 5
+
+[STEP 455]
+Clock is ticking!
+Miss! Page: 480
+Removing page 383 with counter 2097152
+Putting page 480 to frame 6
+
+[STEP 456]
+Miss! Page: 215
+Removing page 436 with counter 2097152
+Putting page 215 to frame 7
+
+[STEP 457]
+Miss! Page: 553
+Removing page 872 with counter 2097152
+Putting page 553 to frame 9
+
+[STEP 458]
+Miss! Page: 155
+Removing page 575 with counter 2097152
+Putting page 155 to frame 12
+
+[STEP 459]
+Clock is ticking!
+Miss! Page: 414
+Removing page 924 with counter 1048576
+Putting page 414 to frame 21
+
+[STEP 460]
+Clock is ticking!
+Miss! Page: 33
+Removing page 124 with counter 524288
+Putting page 33 to frame 35
+
+[STEP 461]
+Clock is ticking!
+Miss! Page: 849
+Removing page 161 with counter 262144
+Putting page 849 to frame 36
+
+[STEP 462]
+Miss! Page: 797
+Removing page 56 with counter 262144
+Putting page 797 to frame 38
+
+[STEP 463]
+Miss! Page: 214
+Removing page 695 with counter 262144
+Putting page 214 to frame 39
+
+[STEP 464]
+Miss! Page: 248
+Removing page 283 with counter 262144
+Putting page 248 to frame 40
+
+[STEP 465]
+Miss! Page: 189
+Removing page 539 with counter 262144
+Putting page 189 to frame 42
+
+[STEP 466]
+Miss! Page: 362
+Removing page 263 with counter 262144
+Putting page 362 to frame 49
+
+[STEP 467]
+Miss! Page: 903
+Removing page 631 with counter 524288
+Putting page 903 to frame 10
+
+[STEP 468]
+Miss! Page: 965
+Removing page 267 with counter 524288
+Putting page 965 to frame 11
+
+[STEP 469]
+Miss! Page: 602
+Removing page 551 with counter 524288
+Putting page 602 to frame 15
+
+[STEP 470]
+Miss! Page: 615
+Removing page 119 with counter 524288
+Putting page 615 to frame 25
+
+[STEP 471]
+Clock is ticking!
+Miss! Page: 652
+Removing page 809 with counter 262144
+Putting page 652 to frame 44
+
+[STEP 472]
+Clock is ticking!
+Miss! Page: 222
+Removing page 742 with counter 262144
+Putting page 222 to frame 0
+
+[STEP 473]
+Clock is ticking!
+Miss! Page: 955
+Removing page 992 with counter 131072
+Putting page 955 to frame 1
+
+[STEP 474]
+Miss! Page: 858
+Removing page 940 with counter 131072
+Putting page 858 to frame 13
+
+[STEP 475]
+Miss! Page: 239
+Removing page 314 with counter 131072
+Putting page 239 to frame 16
+
+[STEP 476]
+Miss! Page: 889
+Removing page 178 with counter 131072
+Putting page 889 to frame 17
+
+[STEP 477]
+Clock is ticking!
+Miss! Page: 427
+Removing page 909 with counter 65536
+Putting page 427 to frame 18
+
+[STEP 478]
+Miss! Page: 331
+Removing page 450 with counter 65536
+Putting page 331 to frame 19
+
+[STEP 479]
+Clock is ticking!
+Miss! Page: 225
+Removing page 439 with counter 32768
+Putting page 225 to frame 20
+
+[STEP 480]
+Miss! Page: 477
+Removing page 252 with counter 32768
+Putting page 477 to frame 22
+
+[STEP 481]
+Miss! Page: 247
+Removing page 499 with counter 65536
+Putting page 247 to frame 23
+
+[STEP 482]
+Clock is ticking!
+Miss! Page: 646
+Removing page 540 with counter 32768
+Putting page 646 to frame 24
+
+[STEP 483]
+Clock is ticking!
+Miss! Page: 705
+Removing page 868 with counter 16384
+Putting page 705 to frame 26
+
+[STEP 484]
+Miss! Page: 10
+Removing page 605 with counter 32768
+Putting page 10 to frame 43
+
+[STEP 485]
+Clock is ticking!
+Miss! Page: 136
+Removing page 986 with counter 16384
+Putting page 136 to frame 46
+
+[STEP 486]
+Miss! Page: 38
+Removing page 422 with counter 16384
+Putting page 38 to frame 47
+
+[STEP 487]
+Miss! Page: 304
+Removing page 981 with counter 16384
+Putting page 304 to frame 48
+
+[STEP 488]
+Clock is ticking!
+Miss! Page: 587
+Removing page 249 with counter 8320
+Putting page 587 to frame 2
+
+[STEP 489]
+Miss! Page: 75
+Removing page 146 with counter 9216
+Putting page 75 to frame 14
+
+[STEP 490]
+Miss! Page: 159
+Removing page 156 with counter 12288
+Putting page 159 to frame 31
+
+[STEP 491]
+Miss! Page: 717
+Removing page 246 with counter 16384
+Putting page 717 to frame 4
+
+[STEP 492]
+Miss! Page: 702
+Removing page 882 with counter 16384
+Putting page 702 to frame 41
+
+[STEP 493]
+Miss! Page: 653
+Removing page 651 with counter 32768
+Putting page 653 to frame 8
+
+[STEP 494]
+Clock is ticking!
+Miss! Page: 509
+Removing page 746 with counter 32768
+Putting page 509 to frame 28
+
+[STEP 495]
+Miss! Page: 15
+Removing page 661 with counter 32768
+Putting page 15 to frame 29
+
+[STEP 496]
+Miss! Page: 167
+Removing page 767 with counter 32896
+Putting page 167 to frame 3
+
+[STEP 497]
+Clock is ticking!
+Miss! Page: 628
+Removing page 41 with counter 32768
+Putting page 628 to frame 30
+
+[STEP 498]
+Clock is ticking!
+Miss! Page: 918
+Removing page 948 with counter 16384
+Putting page 918 to frame 32
+
+[STEP 499]
+Miss! Page: 900
+Removing page 298 with counter 16384
+Putting page 900 to frame 33
+
+[STEP 500]
+Miss! Page: 322
+Removing page 857 with counter 16384
+Putting page 322 to frame 34
+
+[STEP 501]
+Miss! Page: 492
+Removing page 356 with counter 16384
+Putting page 492 to frame 45
+
+[STEP 502]
+Hit! Page: 587
+
+[STEP 503]
+Miss! Page: 260
+Removing page 865 with counter 20480
+Putting page 260 to frame 27
+
+[STEP 504]
+Miss! Page: 241
+Removing page 520 with counter 32768
+Putting page 241 to frame 5
+
+[STEP 505]
+Clock is ticking!
+Miss! Page: 65
+Removing page 637 with counter 16384
+Putting page 65 to frame 37
+
+[STEP 506]
+Miss! Page: 647
+Removing page 480 with counter 32768
+Putting page 647 to frame 6
+
+[STEP 507]
+Miss! Page: 882
+Removing page 215 with counter 32768
+Putting page 882 to frame 7
+
+[STEP 508]
+Miss! Page: 855
+Removing page 553 with counter 32768
+Putting page 855 to frame 9
+
+[STEP 509]
+Clock is ticking!
+Miss! Page: 906
+Removing page 155 with counter 16384
+Putting page 906 to frame 12
+
+[STEP 510]
+Miss! Page: 755
+Removing page 414 with counter 32768
+Putting page 755 to frame 21
+
+[STEP 511]
+Clock is ticking!
+Miss! Page: 335
+Removing page 33 with counter 32768
+Putting page 335 to frame 35
+
+[STEP 512]
+Miss! Page: 881
+Removing page 903 with counter 65536
+Putting page 881 to frame 10
+
+[STEP 513]
+Miss! Page: 490
+Removing page 965 with counter 65536
+Putting page 490 to frame 11
+
+[STEP 514]
+Clock is ticking!
+Miss! Page: 700
+Removing page 602 with counter 32768
+Putting page 700 to frame 15
+
+[STEP 515]
+Miss! Page: 774
+Removing page 615 with counter 32768
+Putting page 774 to frame 25
+
+[STEP 516]
+Clock is ticking!
+Miss! Page: 249
+Removing page 849 with counter 16384
+Putting page 249 to frame 36
+
+[STEP 517]
+Clock is ticking!
+Miss! Page: 285
+Removing page 797 with counter 8192
+Putting page 285 to frame 38
+
+[STEP 518]
+Clock is ticking!
+Miss! Page: 714
+Removing page 214 with counter 4096
+Putting page 714 to frame 39
+
+[STEP 519]
+Miss! Page: 12
+Removing page 248 with counter 4096
+Putting page 12 to frame 40
+
+[STEP 520]
+Miss! Page: 688
+Removing page 189 with counter 4096
+Putting page 688 to frame 42
+
+[STEP 521]
+Hit! Page: 509
+
+[STEP 522]
+Miss! Page: 665
+Removing page 362 with counter 4096
+Putting page 665 to frame 49
+
+[STEP 523]
+Miss! Page: 352
+Removing page 652 with counter 8192
+Putting page 352 to frame 44
+
+[STEP 524]
+Clock is ticking!
+Miss! Page: 482
+Removing page 222 with counter 8192
+Putting page 482 to frame 0
+
+[STEP 525]
+Miss! Page: 776
+Removing page 955 with counter 16384
+Putting page 776 to frame 1
+
+[STEP 526]
+Clock is ticking!
+Miss! Page: 799
+Removing page 858 with counter 8192
+Putting page 799 to frame 13
+
+[STEP 527]
+Hit! Page: 477
+
+[STEP 528]
+Clock is ticking!
+Miss! Page: 931
+Removing page 239 with counter 4096
+Putting page 931 to frame 16
+
+[STEP 529]
+Miss! Page: 540
+Removing page 889 with counter 4096
+Putting page 540 to frame 17
+
+[STEP 530]
+Clock is ticking!
+Miss! Page: 104
+Removing page 427 with counter 4096
+Putting page 104 to frame 18
+
+[STEP 531]
+Miss! Page: 726
+Removing page 331 with counter 4096
+Putting page 726 to frame 19
+
+[STEP 532]
+Miss! Page: 28
+Removing page 225 with counter 8192
+Putting page 28 to frame 20
+
+[STEP 533]
+Miss! Page: 140
+Removing page 247 with counter 8192
+Putting page 140 to frame 23
+
+[STEP 534]
+Miss! Page: 759
+Removing page 646 with counter 16384
+Putting page 759 to frame 24
+
+[STEP 535]
+Miss! Page: 594
+Removing page 705 with counter 32768
+Putting page 594 to frame 26
+
+[STEP 536]
+Miss! Page: 19
+Removing page 10 with counter 32768
+Putting page 19 to frame 43
+
+[STEP 537]
+Miss! Page: 368
+Removing page 136 with counter 65536
+Putting page 368 to frame 46
+
+[STEP 538]
+Miss! Page: 52
+Removing page 38 with counter 65536
+Putting page 52 to frame 47
+
+[STEP 539]
+Miss! Page: 995
+Removing page 304 with counter 65536
+Putting page 995 to frame 48
+
+[STEP 540]
+Miss! Page: 480
+Removing page 717 with counter 131072
+Putting page 480 to frame 4
+
+[STEP 541]
+Miss! Page: 946
+Removing page 653 with counter 131072
+Putting page 946 to frame 8
+
+[STEP 542]
+Miss! Page: 53
+Removing page 75 with counter 131072
+Putting page 53 to frame 14
+
+[STEP 543]
+Miss! Page: 725
+Removing page 159 with counter 131072
+Putting page 725 to frame 31
+
+[STEP 544]
+Miss! Page: 115
+Removing page 702 with counter 131072
+Putting page 115 to frame 41
+
+[STEP 545]
+Miss! Page: 362
+Removing page 167 with counter 262144
+Putting page 362 to frame 3
+
+[STEP 546]
+Hit! Page: 726
+
+[STEP 547]
+Hit! Page: 65
+
+[STEP 548]
+Clock is ticking!
+Miss! Page: 925
+Removing page 726 with counter 0
+Putting page 925 to frame 19
+
+[STEP 549]
+Miss! Page: 805
+Removing page 15 with counter 131072
+Putting page 805 to frame 29
+
+[STEP 550]
+Clock is ticking!
+Miss! Page: 348
+Removing page 628 with counter 131072
+Putting page 348 to frame 30
+
+[STEP 551]
+Miss! Page: 295
+Removing page 241 with counter 262144
+Putting page 295 to frame 5
+
+[STEP 552]
+Miss! Page: 206
+Removing page 260 with counter 262144
+Putting page 206 to frame 27
+
+[STEP 553]
+Miss! Page: 959
+Removing page 918 with counter 262144
+Putting page 959 to frame 32
+
+[STEP 554]
+Miss! Page: 144
+Removing page 900 with counter 262144
+Putting page 144 to frame 33
+
+[STEP 555]
+Miss! Page: 151
+Removing page 322 with counter 262144
+Putting page 151 to frame 34
+
+[STEP 556]
+Clock is ticking!
+Miss! Page: 869
+Removing page 492 with counter 131072
+Putting page 869 to frame 45
+
+[STEP 557]
+Clock is ticking!
+Miss! Page: 551
+Removing page 587 with counter 73728
+Putting page 551 to frame 2
+
+[STEP 558]
+Miss! Page: 996
+Removing page 647 with counter 131072
+Putting page 996 to frame 6
+
+[STEP 559]
+Miss! Page: 517
+Removing page 882 with counter 131072
+Putting page 517 to frame 7
+
+[STEP 560]
+Miss! Page: 22
+Removing page 855 with counter 131072
+Putting page 22 to frame 9
+
+[STEP 561]
+Miss! Page: 580
+Removing page 906 with counter 262144
+Putting page 580 to frame 12
+
+[STEP 562]
+Clock is ticking!
+Miss! Page: 853
+Removing page 755 with counter 131072
+Putting page 853 to frame 21
+
+[STEP 563]
+Miss! Page: 471
+Removing page 881 with counter 262144
+Putting page 471 to frame 10
+
+[STEP 564]
+Clock is ticking!
+Miss! Page: 424
+Removing page 490 with counter 131072
+Putting page 424 to frame 11
+
+[STEP 565]
+Clock is ticking!
+Miss! Page: 569
+Removing page 335 with counter 65536
+Putting page 569 to frame 35
+
+[STEP 566]
+Clock is ticking!
+Miss! Page: 311
+Removing page 700 with counter 65536
+Putting page 311 to frame 15
+
+[STEP 567]
+Miss! Page: 936
+Removing page 774 with counter 65536
+Putting page 936 to frame 25
+
+[STEP 568]
+Hit! Page: 12
+
+[STEP 569]
+Clock is ticking!
+Miss! Page: 72
+Removing page 249 with counter 65536
+Putting page 72 to frame 36
+
+[STEP 570]
+Miss! Page: 83
+Removing page 285 with counter 131072
+Putting page 83 to frame 38
+
+[STEP 571]
+Clock is ticking!
+Miss! Page: 971
+Removing page 714 with counter 131072
+Putting page 971 to frame 39
+
+[STEP 572]
+Miss! Page: 354
+Removing page 688 with counter 131072
+Putting page 354 to frame 42
+
+[STEP 573]
+Miss! Page: 226
+Removing page 352 with counter 131072
+Putting page 226 to frame 44
+
+[STEP 574]
+Miss! Page: 717
+Removing page 665 with counter 131072
+Putting page 717 to frame 49
+
+[STEP 575]
+Clock is ticking!
+Miss! Page: 986
+Removing page 509 with counter 65664
+Putting page 986 to frame 28
+
+[STEP 576]
+Miss! Page: 294
+Removing page 482 with counter 131072
+Putting page 294 to frame 0
+
+[STEP 577]
+Miss! Page: 110
+Removing page 776 with counter 131072
+Putting page 110 to frame 1
+
+[STEP 578]
+Miss! Page: 835
+Removing page 799 with counter 262144
+Putting page 835 to frame 13
+
+[STEP 579]
+Hit! Page: 52
+
+[STEP 580]
+Miss! Page: 877
+Removing page 477 with counter 262148
+Putting page 877 to frame 22
+
+[STEP 581]
+Miss! Page: 161
+Removing page 931 with counter 524288
+Putting page 161 to frame 16
+
+[STEP 582]
+Miss! Page: 435
+Removing page 540 with counter 524288
+Putting page 435 to frame 17
+
+[STEP 583]
+Miss! Page: 887
+Removing page 362 with counter 1048576
+Putting page 887 to frame 3
+
+[STEP 584]
+Miss! Page: 474
+Removing page 480 with counter 1048576
+Putting page 474 to frame 4
+
+[STEP 585]
+Miss! Page: 350
+Removing page 946 with counter 1048576
+Putting page 350 to frame 8
+
+[STEP 586]
+Miss! Page: 7
+Removing page 53 with counter 1048576
+Putting page 7 to frame 14
+
+[STEP 587]
+Miss! Page: 364
+Removing page 104 with counter 1048576
+Putting page 364 to frame 18
+
+[STEP 588]
+Clock is ticking!
+Miss! Page: 962
+Removing page 28 with counter 524288
+Putting page 962 to frame 20
+
+[STEP 589]
+Miss! Page: 991
+Removing page 140 with counter 524288
+Putting page 991 to frame 23
+
+[STEP 590]
+Clock is ticking!
+Miss! Page: 445
+Removing page 759 with counter 262144
+Putting page 445 to frame 24
+
+[STEP 591]
+Miss! Page: 498
+Removing page 594 with counter 262144
+Putting page 498 to frame 26
+
+[STEP 592]
+Miss! Page: 156
+Removing page 725 with counter 262144
+Putting page 156 to frame 31
+
+[STEP 593]
+Miss! Page: 59
+Removing page 115 with counter 262144
+Putting page 59 to frame 41
+
+[STEP 594]
+Clock is ticking!
+Miss! Page: 967
+Removing page 19 with counter 131072
+Putting page 967 to frame 43
+
+[STEP 595]
+Miss! Page: 832
+Removing page 368 with counter 131072
+Putting page 832 to frame 46
+
+[STEP 596]
+Miss! Page: 796
+Removing page 995 with counter 131072
+Putting page 796 to frame 48
+
+[STEP 597]
+Clock is ticking!
+Miss! Page: 751
+Removing page 65 with counter 65600
+Putting page 751 to frame 37
+
+[STEP 598]
+Miss! Page: 753
+Removing page 925 with counter 131072
+Putting page 753 to frame 19
+
+[STEP 599]
+Miss! Page: 270
+Removing page 805 with counter 131072
+Putting page 270 to frame 29
+
+[STEP 600]
+Miss! Page: 994
+Removing page 295 with counter 262144
+Putting page 994 to frame 5
+
+[STEP 601]
+Hit! Page: 294
+
+[STEP 602]
+Miss! Page: 123
+Removing page 206 with counter 262144
+Putting page 123 to frame 27
+
+[STEP 603]
+Clock is ticking!
+Miss! Page: 941
+Removing page 348 with counter 131072
+Putting page 941 to frame 30
+
+[STEP 604]
+Miss! Page: 422
+Removing page 959 with counter 131072
+Putting page 422 to frame 32
+
+[STEP 605]
+Miss! Page: 214
+Removing page 144 with counter 131072
+Putting page 214 to frame 33
+
+[STEP 606]
+Clock is ticking!
+Miss! Page: 920
+Removing page 151 with counter 65536
+Putting page 920 to frame 34
+
+[STEP 607]
+Miss! Page: 245
+Removing page 869 with counter 131072
+Putting page 245 to frame 45
+
+[STEP 608]
+Miss! Page: 672
+Removing page 551 with counter 262144
+Putting page 672 to frame 2
+
+[STEP 609]
+Miss! Page: 816
+Removing page 996 with counter 262144
+Putting page 816 to frame 6
+
+[STEP 610]
+Miss! Page: 652
+Removing page 517 with counter 262144
+Putting page 652 to frame 7
+
+[STEP 611]
+Miss! Page: 120
+Removing page 22 with counter 262144
+Putting page 120 to frame 9
+
+[STEP 612]
+Miss! Page: 460
+Removing page 580 with counter 262144
+Putting page 460 to frame 12
+
+[STEP 613]
+Miss! Page: 86
+Removing page 471 with counter 524288
+Putting page 86 to frame 10
+
+[STEP 614]
+Miss! Page: 610
+Removing page 853 with counter 524288
+Putting page 610 to frame 21
+
+[STEP 615]
+Clock is ticking!
+Miss! Page: 640
+Removing page 424 with counter 524288
+Putting page 640 to frame 11
+
+[STEP 616]
+Miss! Page: 848
+Removing page 569 with counter 1048576
+Putting page 848 to frame 35
+
+[STEP 617]
+Miss! Page: 992
+Removing page 311 with counter 2097152
+Putting page 992 to frame 15
+
+[STEP 618]
+Miss! Page: 70
+Removing page 936 with counter 2097152
+Putting page 70 to frame 25
+
+[STEP 619]
+Miss! Page: 419
+Removing page 12 with counter 2097664
+Putting page 419 to frame 40
+
+[STEP 620]
+Miss! Page: 575
+Removing page 72 with counter 4194304
+Putting page 575 to frame 36
+
+[STEP 621]
+Miss! Page: 798
+Removing page 83 with counter 4194304
+Putting page 798 to frame 38
+
+[STEP 622]
+Miss! Page: 837
+Removing page 971 with counter 8388608
+Putting page 837 to frame 39
+
+[STEP 623]
+Clock is ticking!
+Miss! Page: 358
+Removing page 354 with counter 4194304
+Putting page 358 to frame 42
+
+[STEP 624]
+Miss! Page: 856
+Removing page 226 with counter 4194304
+Putting page 856 to frame 44
+
+[STEP 625]
+Clock is ticking!
+Hit! Page: 270
+
+[STEP 626]
+Miss! Page: 883
+Removing page 717 with counter 2097152
+Putting page 883 to frame 49
+
+[STEP 627]
+Miss! Page: 975
+Removing page 110 with counter 4194304
+Putting page 975 to frame 1
+
+[STEP 628]
+Miss! Page: 944
+Removing page 887 with counter 4194304
+Putting page 944 to frame 3
+
+[STEP 629]
+Miss! Page: 279
+Removing page 474 with counter 4194304
+Putting page 279 to frame 4
+
+[STEP 630]
+Clock is ticking!
+Miss! Page: 767
+Removing page 350 with counter 2097152
+Putting page 767 to frame 8
+
+[STEP 631]
+Miss! Page: 222
+Removing page 835 with counter 2097152
+Putting page 222 to frame 13
+
+[STEP 632]
+Hit! Page: 156
+
+[STEP 633]
+Miss! Page: 356
+Removing page 7 with counter 2097152
+Putting page 356 to frame 14
+
+[STEP 634]
+Miss! Page: 772
+Removing page 161 with counter 2097152
+Putting page 772 to frame 16
+
+[STEP 635]
+Miss! Page: 475
+Removing page 435 with counter 2097152
+Putting page 475 to frame 17
+
+[STEP 636]
+Miss! Page: 880
+Removing page 364 with counter 2097152
+Putting page 880 to frame 18
+
+[STEP 637]
+Hit! Page: 883
+
+[STEP 638]
+Miss! Page: 733
+Removing page 877 with counter 2097152
+Putting page 733 to frame 22
+
+[STEP 639]
+Miss! Page: 176
+Removing page 986 with counter 2097152
+Putting page 176 to frame 28
+
+[STEP 640]
+Miss! Page: 449
+Removing page 52 with counter 2098176
+Putting page 449 to frame 47
+
+[STEP 641]
+Miss! Page: 310
+Removing page 962 with counter 4194304
+Putting page 310 to frame 20
+
+[STEP 642]
+Clock is ticking!
+Miss! Page: 8
+Removing page 991 with counter 2097152
+Putting page 8 to frame 23
+
+[STEP 643]
+Miss! Page: 804
+Removing page 445 with counter 4194304
+Putting page 804 to frame 24
+
+[STEP 644]
+Miss! Page: 465
+Removing page 498 with counter 4194304
+Putting page 465 to frame 26
+
+[STEP 645]
+Miss! Page: 470
+Removing page 59 with counter 4194304
+Putting page 470 to frame 41
+
+[STEP 646]
+Miss! Page: 276
+Removing page 967 with counter 8388608
+Putting page 276 to frame 43
+
+[STEP 647]
+Clock is ticking!
+Miss! Page: 528
+Removing page 832 with counter 4194304
+Putting page 528 to frame 46
+
+[STEP 648]
+Miss! Page: 809
+Removing page 796 with counter 4194304
+Putting page 809 to frame 48
+
+[STEP 649]
+Clock is ticking!
+Hit! Page: 8
+
+[STEP 650]
+Miss! Page: 250
+Removing page 994 with counter 4194304
+Putting page 250 to frame 5
+
+[STEP 651]
+Miss! Page: 160
+Removing page 753 with counter 4194304
+Putting page 160 to frame 19
+
+[STEP 652]
+Clock is ticking!
+Miss! Page: 691
+Removing page 123 with counter 2097152
+Putting page 691 to frame 27
+
+[STEP 653]
+Miss! Page: 124
+Removing page 751 with counter 2097152
+Putting page 124 to frame 37
+
+[STEP 654]
+Miss! Page: 621
+Removing page 294 with counter 2228224
+Putting page 621 to frame 0
+
+[STEP 655]
+Clock is ticking!
+Miss! Page: 74
+Removing page 941 with counter 2097152
+Putting page 74 to frame 30
+
+[STEP 656]
+Miss! Page: 766
+Removing page 422 with counter 2097152
+Putting page 766 to frame 32
+
+[STEP 657]
+Miss! Page: 626
+Removing page 214 with counter 2097152
+Putting page 626 to frame 33
+
+[STEP 658]
+Miss! Page: 938
+Removing page 672 with counter 4194304
+Putting page 938 to frame 2
+
+[STEP 659]
+Clock is ticking!
+Miss! Page: 316
+Removing page 816 with counter 2097152
+Putting page 316 to frame 6
+
+[STEP 660]
+Miss! Page: 499
+Removing page 652 with counter 2097152
+Putting page 499 to frame 7
+
+[STEP 661]
+Miss! Page: 668
+Removing page 120 with counter 2097152
+Putting page 668 to frame 9
+
+[STEP 662]
+Miss! Page: 417
+Removing page 86 with counter 2097152
+Putting page 417 to frame 10
+
+[STEP 663]
+Miss! Page: 603
+Removing page 460 with counter 2097152
+Putting page 603 to frame 12
+
+[STEP 664]
+Miss! Page: 435
+Removing page 610 with counter 2097152
+Putting page 435 to frame 21
+
+[STEP 665]
+Clock is ticking!
+Miss! Page: 515
+Removing page 920 with counter 1048576
+Putting page 515 to frame 34
+
+[STEP 666]
+Miss! Page: 4
+Removing page 245 with counter 1048576
+Putting page 4 to frame 45
+
+[STEP 667]
+Miss! Page: 483
+Removing page 640 with counter 2097152
+Putting page 483 to frame 11
+
+[STEP 668]
+Clock is ticking!
+Miss! Page: 121
+Removing page 992 with counter 1048576
+Putting page 121 to frame 15
+
+[STEP 669]
+Miss! Page: 408
+Removing page 70 with counter 1048576
+Putting page 408 to frame 25
+
+[STEP 670]
+Miss! Page: 204
+Removing page 848 with counter 1048576
+Putting page 204 to frame 35
+
+[STEP 671]
+Miss! Page: 359
+Removing page 575 with counter 1048576
+Putting page 359 to frame 36
+
+[STEP 672]
+Miss! Page: 941
+Removing page 798 with counter 1048576
+Putting page 941 to frame 38
+
+[STEP 673]
+Miss! Page: 893
+Removing page 837 with counter 1048576
+Putting page 893 to frame 39
+
+[STEP 674]
+Miss! Page: 130
+Removing page 419 with counter 1048576
+Putting page 130 to frame 40
+
+[STEP 675]
+Miss! Page: 480
+Removing page 358 with counter 2097152
+Putting page 480 to frame 42
+
+[STEP 676]
+Miss! Page: 920
+Removing page 856 with counter 2097152
+Putting page 920 to frame 44
+
+[STEP 677]
+Miss! Page: 281
+Removing page 975 with counter 4194304
+Putting page 281 to frame 1
+
+[STEP 678]
+Miss! Page: 875
+Removing page 944 with counter 4194304
+Putting page 875 to frame 3
+
+[STEP 679]
+Miss! Page: 319
+Removing page 279 with counter 4194304
+Putting page 319 to frame 4
+
+[STEP 680]
+Miss! Page: 633
+Removing page 270 with counter 4325376
+Putting page 633 to frame 29
+
+[STEP 681]
+Hit! Page: 920
+
+[STEP 682]
+Clock is ticking!
+Miss! Page: 7
+Removing page 920 with counter 0
+Putting page 7 to frame 44
+
+[STEP 683]
+Miss! Page: 935
+Removing page 767 with counter 4194304
+Putting page 935 to frame 8
+
+[STEP 684]
+Miss! Page: 244
+Removing page 222 with counter 4194304
+Putting page 244 to frame 13
+
+[STEP 685]
+Miss! Page: 388
+Removing page 356 with counter 4194304
+Putting page 388 to frame 14
+
+[STEP 686]
+Miss! Page: 235
+Removing page 772 with counter 4194304
+Putting page 235 to frame 16
+
+[STEP 687]
+Miss! Page: 872
+Removing page 475 with counter 4194304
+Putting page 872 to frame 17
+
+[STEP 688]
+Miss! Page: 224
+Removing page 880 with counter 4194304
+Putting page 224 to frame 18
+
+[STEP 689]
+Clock is ticking!
+Miss! Page: 377
+Removing page 310 with counter 2097152
+Putting page 377 to frame 20
+
+[STEP 690]
+Clock is ticking!
+Miss! Page: 12
+Removing page 733 with counter 1048576
+Putting page 12 to frame 22
+
+[STEP 691]
+Hit! Page: 480
+
+[STEP 692]
+Miss! Page: 493
+Removing page 176 with counter 1048576
+Putting page 493 to frame 28
+
+[STEP 693]
+Miss! Page: 570
+Removing page 449 with counter 1048576
+Putting page 570 to frame 47
+
+[STEP 694]
+Clock is ticking!
+Miss! Page: 969
+Removing page 156 with counter 526336
+Putting page 969 to frame 31
+
+[STEP 695]
+Miss! Page: 395
+Removing page 883 with counter 786432
+Putting page 395 to frame 49
+
+[STEP 696]
+Miss! Page: 460
+Removing page 804 with counter 1048576
+Putting page 460 to frame 24
+
+[STEP 697]
+Clock is ticking!
+Miss! Page: 738
+Removing page 465 with counter 524288
+Putting page 738 to frame 26
+
+[STEP 698]
+Clock is ticking!
+Miss! Page: 997
+Removing page 470 with counter 262144
+Putting page 997 to frame 41
+
+[STEP 699]
+Clock is ticking!
+Miss! Page: 516
+Removing page 276 with counter 131072
+Putting page 516 to frame 43
+
+[STEP 700]
+Clock is ticking!
+Miss! Page: 386
+Removing page 528 with counter 131072
+Putting page 386 to frame 46
+
+[STEP 701]
+Miss! Page: 772
+Removing page 809 with counter 131072
+Putting page 772 to frame 48
+
+[STEP 702]
+Clock is ticking!
+Miss! Page: 559
+Removing page 250 with counter 131072
+Putting page 559 to frame 5
+
+[STEP 703]
+Hit! Page: 935
+
+[STEP 704]
+Miss! Page: 401
+Removing page 160 with counter 131072
+Putting page 401 to frame 19
+
+[STEP 705]
+Clock is ticking!
+Miss! Page: 83
+Removing page 8 with counter 81920
+Putting page 83 to frame 23
+
+[STEP 706]
+Clock is ticking!
+Miss! Page: 711
+Removing page 621 with counter 65536
+Putting page 711 to frame 0
+
+[STEP 707]
+Clock is ticking!
+Miss! Page: 794
+Removing page 691 with counter 32768
+Putting page 794 to frame 27
+
+[STEP 708]
+Miss! Page: 321
+Removing page 124 with counter 32768
+Putting page 321 to frame 37
+
+[STEP 709]
+Miss! Page: 407
+Removing page 938 with counter 65536
+Putting page 407 to frame 2
+
+[STEP 710]
+Miss! Page: 511
+Removing page 74 with counter 65536
+Putting page 511 to frame 30
+
+[STEP 711]
+Clock is ticking!
+Miss! Page: 53
+Removing page 766 with counter 32768
+Putting page 53 to frame 32
+
+[STEP 712]
+Miss! Page: 862
+Removing page 626 with counter 32768
+Putting page 862 to frame 33
+
+[STEP 713]
+Miss! Page: 889
+Removing page 316 with counter 65536
+Putting page 889 to frame 6
+
+[STEP 714]
+Miss! Page: 797
+Removing page 499 with counter 65536
+Putting page 797 to frame 7
+
+[STEP 715]
+Clock is ticking!
+Miss! Page: 472
+Removing page 668 with counter 32768
+Putting page 472 to frame 9
+
+[STEP 716]
+Miss! Page: 584
+Removing page 417 with counter 32768
+Putting page 584 to frame 10
+
+[STEP 717]
+Miss! Page: 18
+Removing page 603 with counter 32768
+Putting page 18 to frame 12
+
+[STEP 718]
+Miss! Page: 695
+Removing page 435 with counter 32768
+Putting page 695 to frame 21
+
+[STEP 719]
+Miss! Page: 995
+Removing page 483 with counter 65536
+Putting page 995 to frame 11
+
+[STEP 720]
+Miss! Page: 636
+Removing page 515 with counter 65536
+Putting page 636 to frame 34
+
+[STEP 721]
+Miss! Page: 710
+Removing page 4 with counter 65536
+Putting page 710 to frame 45
+
+[STEP 722]
+Clock is ticking!
+Miss! Page: 77
+Removing page 281 with counter 65536
+Putting page 77 to frame 1
+
+[STEP 723]
+Hit! Page: 388
+
+[STEP 724]
+Miss! Page: 296
+Removing page 875 with counter 65536
+Putting page 296 to frame 3
+
+[STEP 725]
+Miss! Page: 157
+Removing page 319 with counter 65536
+Putting page 157 to frame 4
+
+[STEP 726]
+Miss! Page: 934
+Removing page 121 with counter 65536
+Putting page 934 to frame 15
+
+[STEP 727]
+Hit! Page: 584
+
+[STEP 728]
+Miss! Page: 285
+Removing page 408 with counter 65536
+Putting page 285 to frame 25
+
+[STEP 729]
+Clock is ticking!
+Miss! Page: 451
+Removing page 633 with counter 32768
+Putting page 451 to frame 29
+
+[STEP 730]
+Miss! Page: 920
+Removing page 204 with counter 32768
+Putting page 920 to frame 35
+
+[STEP 731]
+Miss! Page: 111
+Removing page 359 with counter 32768
+Putting page 111 to frame 36
+
+[STEP 732]
+Clock is ticking!
+Miss! Page: 780
+Removing page 941 with counter 16384
+Putting page 780 to frame 38
+
+[STEP 733]
+Miss! Page: 787
+Removing page 893 with counter 16384
+Putting page 787 to frame 39
+
+[STEP 734]
+Miss! Page: 166
+Removing page 130 with counter 16384
+Putting page 166 to frame 40
+
+[STEP 735]
+Miss! Page: 868
+Removing page 244 with counter 32768
+Putting page 868 to frame 13
+
+[STEP 736]
+Clock is ticking!
+Miss! Page: 903
+Removing page 235 with counter 16384
+Putting page 903 to frame 16
+
+[STEP 737]
+Miss! Page: 247
+Removing page 872 with counter 16384
+Putting page 247 to frame 17
+
+[STEP 738]
+Miss! Page: 860
+Removing page 224 with counter 16384
+Putting page 860 to frame 18
+
+[STEP 739]
+Miss! Page: 378
+Removing page 7 with counter 16384
+Putting page 378 to frame 44
+
+[STEP 740]
+Miss! Page: 319
+Removing page 377 with counter 32768
+Putting page 319 to frame 20
+
+[STEP 741]
+Miss! Page: 490
+Removing page 12 with counter 65536
+Putting page 490 to frame 22
+
+[STEP 742]
+Miss! Page: 943
+Removing page 493 with counter 65536
+Putting page 943 to frame 28
+
+[STEP 743]
+Miss! Page: 556
+Removing page 570 with counter 65536
+Putting page 556 to frame 47
+
+[STEP 744]
+Miss! Page: 164
+Removing page 480 with counter 73728
+Putting page 164 to frame 42
+
+[STEP 745]
+Miss! Page: 254
+Removing page 460 with counter 131072
+Putting page 254 to frame 24
+
+[STEP 746]
+Hit! Page: 378
+
+[STEP 747]
+Miss! Page: 982
+Removing page 378 with counter 0
+Putting page 982 to frame 44
+
+[STEP 748]
+Clock is ticking!
+Miss! Page: 85
+Removing page 969 with counter 65536
+Putting page 85 to frame 31
+
+[STEP 749]
+Clock is ticking!
+Miss! Page: 107
+Removing page 395 with counter 32768
+Putting page 107 to frame 49
+
+[STEP 750]
+Miss! Page: 195
+Removing page 738 with counter 65536
+Putting page 195 to frame 26
+
+[STEP 751]
+Miss! Page: 504
+Removing page 997 with counter 131072
+Putting page 504 to frame 41
+
+[STEP 752]
+Clock is ticking!
+Hit! Page: 903
+
+[STEP 753]
+Hit! Page: 516
+
+[STEP 754]
+Clock is ticking!
+Miss! Page: 911
+Removing page 386 with counter 131072
+Putting page 911 to frame 46
+
+[STEP 755]
+Miss! Page: 575
+Removing page 772 with counter 131072
+Putting page 575 to frame 48
+
+[STEP 756]
+Miss! Page: 509
+Removing page 559 with counter 262144
+Putting page 509 to frame 5
+
+[STEP 757]
+Miss! Page: 836
+Removing page 401 with counter 262144
+Putting page 836 to frame 19
+
+[STEP 758]
+Miss! Page: 31
+Removing page 935 with counter 263168
+Putting page 31 to frame 8
+
+[STEP 759]
+Miss! Page: 189
+Removing page 83 with counter 524288
+Putting page 189 to frame 23
+
+[STEP 760]
+Miss! Page: 119
+Removing page 711 with counter 1048576
+Putting page 119 to frame 0
+
+[STEP 761]
+Clock is ticking!
+Miss! Page: 549
+Removing page 407 with counter 1048576
+Putting page 549 to frame 2
+
+[STEP 762]
+Clock is ticking!
+Hit! Page: 911
+
+[STEP 763]
+Miss! Page: 343
+Removing page 794 with counter 524288
+Putting page 343 to frame 27
+
+[STEP 764]
+Clock is ticking!
+Miss! Page: 661
+Removing page 511 with counter 262144
+Putting page 661 to frame 30
+
+[STEP 765]
+Miss! Page: 330
+Removing page 321 with counter 262144
+Putting page 330 to frame 37
+
+[STEP 766]
+Clock is ticking!
+Miss! Page: 752
+Removing page 889 with counter 262144
+Putting page 752 to frame 6
+
+[STEP 767]
+Miss! Page: 196
+Removing page 797 with counter 262144
+Putting page 196 to frame 7
+
+[STEP 768]
+Miss! Page: 483
+Removing page 53 with counter 262144
+Putting page 483 to frame 32
+
+[STEP 769]
+Miss! Page: 571
+Removing page 862 with counter 262144
+Putting page 571 to frame 33
+
+[STEP 770]
+Clock is ticking!
+Miss! Page: 619
+Removing page 472 with counter 262144
+Putting page 619 to frame 9
+
+[STEP 771]
+Miss! Page: 353
+Removing page 995 with counter 262144
+Putting page 353 to frame 11
+
+[STEP 772]
+Hit! Page: 285
+
+[STEP 773]
+Miss! Page: 746
+Removing page 18 with counter 262144
+Putting page 746 to frame 12
+
+[STEP 774]
+Clock is ticking!
+Miss! Page: 454
+Removing page 695 with counter 131072
+Putting page 454 to frame 21
+
+[STEP 775]
+Miss! Page: 936
+Removing page 636 with counter 131072
+Putting page 936 to frame 34
+
+[STEP 776]
+Miss! Page: 288
+Removing page 710 with counter 131072
+Putting page 288 to frame 45
+
+[STEP 777]
+Miss! Page: 895
+Removing page 77 with counter 262144
+Putting page 895 to frame 1
+
+[STEP 778]
+Miss! Page: 271
+Removing page 296 with counter 262144
+Putting page 271 to frame 3
+
+[STEP 779]
+Miss! Page: 82
+Removing page 157 with counter 262144
+Putting page 82 to frame 4
+
+[STEP 780]
+Miss! Page: 863
+Removing page 934 with counter 262144
+Putting page 863 to frame 15
+
+[STEP 781]
+Miss! Page: 832
+Removing page 388 with counter 262160
+Putting page 832 to frame 14
+
+[STEP 782]
+Clock is ticking!
+Miss! Page: 547
+Removing page 584 with counter 196608
+Putting page 547 to frame 10
+
+[STEP 783]
+Clock is ticking!
+Miss! Page: 597
+Removing page 451 with counter 131072
+Putting page 597 to frame 29
+
+[STEP 784]
+Clock is ticking!
+Miss! Page: 731
+Removing page 920 with counter 65536
+Putting page 731 to frame 35
+
+[STEP 785]
+Miss! Page: 506
+Removing page 111 with counter 65536
+Putting page 506 to frame 36
+
+[STEP 786]
+Clock is ticking!
+Miss! Page: 706
+Removing page 868 with counter 65536
+Putting page 706 to frame 13
+
+[STEP 787]
+Clock is ticking!
+Hit! Page: 85
+
+[STEP 788]
+Miss! Page: 873
+Removing page 780 with counter 32768
+Putting page 873 to frame 38
+
+[STEP 789]
+Miss! Page: 220
+Removing page 787 with counter 32768
+Putting page 220 to frame 39
+
+[STEP 790]
+Miss! Page: 532
+Removing page 166 with counter 32768
+Putting page 532 to frame 40
+
+[STEP 791]
+Miss! Page: 158
+Removing page 247 with counter 65536
+Putting page 158 to frame 17
+
+[STEP 792]
+Miss! Page: 879
+Removing page 860 with counter 65536
+Putting page 879 to frame 18
+
+[STEP 793]
+Miss! Page: 682
+Removing page 319 with counter 65536
+Putting page 682 to frame 20
+
+[STEP 794]
+Clock is ticking!
+Miss! Page: 380
+Removing page 490 with counter 32768
+Putting page 380 to frame 22
+
+[STEP 795]
+Clock is ticking!
+Miss! Page: 778
+Removing page 254 with counter 16384
+Putting page 778 to frame 24
+
+[STEP 796]
+Miss! Page: 299
+Removing page 943 with counter 16384
+Putting page 299 to frame 28
+
+[STEP 797]
+Miss! Page: 729
+Removing page 164 with counter 16384
+Putting page 729 to frame 42
+
+[STEP 798]
+Miss! Page: 162
+Removing page 982 with counter 16384
+Putting page 162 to frame 44
+
+[STEP 799]
+Miss! Page: 730
+Removing page 556 with counter 16384
+Putting page 730 to frame 47
+
+[STEP 800]
+Clock is ticking!
+Miss! Page: 511
+Removing page 195 with counter 32768
+Putting page 511 to frame 26
+
+[STEP 801]
+Miss! Page: 265
+Removing page 504 with counter 32768
+Putting page 265 to frame 41
+
+[STEP 802]
+Clock is ticking!
+Miss! Page: 935
+Removing page 107 with counter 16384
+Putting page 935 to frame 49
+
+[STEP 803]
+Clock is ticking!
+Miss! Page: 34
+Removing page 516 with counter 16385
+Putting page 34 to frame 43
+
+[STEP 804]
+Miss! Page: 293
+Removing page 903 with counter 18432
+Putting page 293 to frame 16
+
+[STEP 805]
+Clock is ticking!
+Hit! Page: 285
+
+[STEP 806]
+Miss! Page: 923
+Removing page 119 with counter 16384
+Putting page 923 to frame 0
+
+[STEP 807]
+Clock is ticking!
+Miss! Page: 113
+Removing page 509 with counter 8192
+Putting page 113 to frame 5
+
+[STEP 808]
+Miss! Page: 563
+Removing page 31 with counter 8192
+Putting page 563 to frame 8
+
+[STEP 809]
+Miss! Page: 253
+Removing page 836 with counter 8192
+Putting page 253 to frame 19
+
+[STEP 810]
+Miss! Page: 367
+Removing page 189 with counter 8192
+Putting page 367 to frame 23
+
+[STEP 811]
+Miss! Page: 159
+Removing page 575 with counter 8192
+Putting page 159 to frame 48
+
+[STEP 812]
+Miss! Page: 848
+Removing page 549 with counter 16384
+Putting page 848 to frame 2
+
+[STEP 813]
+Miss! Page: 484
+Removing page 343 with counter 32768
+Putting page 484 to frame 27
+
+[STEP 814]
+Miss! Page: 633
+Removing page 911 with counter 40960
+Putting page 633 to frame 46
+
+[STEP 815]
+Miss! Page: 127
+Removing page 661 with counter 65536
+Putting page 127 to frame 30
+
+[STEP 816]
+Miss! Page: 124
+Removing page 330 with counter 65536
+Putting page 124 to frame 37
+
+[STEP 817]
+Miss! Page: 164
+Removing page 752 with counter 131072
+Putting page 164 to frame 6
+
+[STEP 818]
+Miss! Page: 303
+Removing page 196 with counter 131072
+Putting page 303 to frame 7
+
+[STEP 819]
+Miss! Page: 177
+Removing page 483 with counter 131072
+Putting page 177 to frame 32
+
+[STEP 820]
+Miss! Page: 478
+Removing page 571 with counter 131072
+Putting page 478 to frame 33
+
+[STEP 821]
+Miss! Page: 806
+Removing page 619 with counter 262144
+Putting page 806 to frame 9
+
+[STEP 822]
+Miss! Page: 99
+Removing page 353 with counter 262144
+Putting page 99 to frame 11
+
+[STEP 823]
+Miss! Page: 26
+Removing page 746 with counter 262144
+Putting page 26 to frame 12
+
+[STEP 824]
+Miss! Page: 779
+Removing page 895 with counter 524288
+Putting page 779 to frame 1
+
+[STEP 825]
+Miss! Page: 989
+Removing page 271 with counter 524288
+Putting page 989 to frame 3
+
+[STEP 826]
+Miss! Page: 268
+Removing page 82 with counter 524288
+Putting page 268 to frame 4
+
+[STEP 827]
+Miss! Page: 103
+Removing page 832 with counter 524288
+Putting page 103 to frame 14
+
+[STEP 828]
+Miss! Page: 751
+Removing page 863 with counter 524288
+Putting page 751 to frame 15
+
+[STEP 829]
+Miss! Page: 496
+Removing page 454 with counter 524288
+Putting page 496 to frame 21
+
+[STEP 830]
+Miss! Page: 424
+Removing page 936 with counter 524288
+Putting page 424 to frame 34
+
+[STEP 831]
+Clock is ticking!
+Miss! Page: 880
+Removing page 288 with counter 262144
+Putting page 880 to frame 45
+
+[STEP 832]
+Miss! Page: 596
+Removing page 547 with counter 524288
+Putting page 596 to frame 10
+
+[STEP 833]
+Miss! Page: 11
+Removing page 597 with counter 1048576
+Putting page 11 to frame 29
+
+[STEP 834]
+Clock is ticking!
+Miss! Page: 797
+Removing page 731 with counter 1048576
+Putting page 797 to frame 35
+
+[STEP 835]
+Miss! Page: 53
+Removing page 506 with counter 1048576
+Putting page 53 to frame 36
+
+[STEP 836]
+Clock is ticking!
+Miss! Page: 104
+Removing page 706 with counter 1048576
+Putting page 104 to frame 13
+
+[STEP 837]
+Miss! Page: 948
+Removing page 158 with counter 2097152
+Putting page 948 to frame 17
+
+[STEP 838]
+Miss! Page: 917
+Removing page 879 with counter 2097152
+Putting page 917 to frame 18
+
+[STEP 839]
+Clock is ticking!
+Miss! Page: 231
+Removing page 682 with counter 1048576
+Putting page 231 to frame 20
+
+[STEP 840]
+Clock is ticking!
+Miss! Page: 576
+Removing page 873 with counter 524288
+Putting page 576 to frame 38
+
+[STEP 841]
+Miss! Page: 968
+Removing page 220 with counter 524288
+Putting page 968 to frame 39
+
+[STEP 842]
+Miss! Page: 867
+Removing page 532 with counter 524288
+Putting page 867 to frame 40
+
+[STEP 843]
+Miss! Page: 950
+Removing page 85 with counter 524320
+Putting page 950 to frame 31
+
+[STEP 844]
+Miss! Page: 858
+Removing page 380 with counter 1048576
+Putting page 858 to frame 22
+
+[STEP 845]
+Miss! Page: 713
+Removing page 778 with counter 2097152
+Putting page 713 to frame 24
+
+[STEP 846]
+Clock is ticking!
+Miss! Page: 878
+Removing page 299 with counter 1048576
+Putting page 878 to frame 28
+
+[STEP 847]
+Miss! Page: 119
+Removing page 729 with counter 1048576
+Putting page 119 to frame 42
+
+[STEP 848]
+Miss! Page: 148
+Removing page 162 with counter 1048576
+Putting page 148 to frame 44
+
+[STEP 849]
+Miss! Page: 227
+Removing page 730 with counter 1048576
+Putting page 227 to frame 47
+
+[STEP 850]
+Miss! Page: 58
+Removing page 511 with counter 2097152
+Putting page 58 to frame 26
+
+[STEP 851]
+Clock is ticking!
+Miss! Page: 400
+Removing page 265 with counter 1048576
+Putting page 400 to frame 41
+
+[STEP 852]
+Miss! Page: 1
+Removing page 935 with counter 2097152
+Putting page 1 to frame 49
+
+[STEP 853]
+Miss! Page: 297
+Removing page 293 with counter 4194304
+Putting page 297 to frame 16
+
+[STEP 854]
+Miss! Page: 655
+Removing page 34 with counter 4194304
+Putting page 655 to frame 43
+
+[STEP 855]
+Miss! Page: 215
+Removing page 923 with counter 8388608
+Putting page 215 to frame 0
+
+[STEP 856]
+Miss! Page: 691
+Removing page 285 with counter 8390656
+Putting page 691 to frame 25
+
+[STEP 857]
+Miss! Page: 435
+Removing page 779 with counter 16777216
+Putting page 435 to frame 1
+
+[STEP 858]
+Clock is ticking!
+Miss! Page: 601
+Removing page 848 with counter 8388608
+Putting page 601 to frame 2
+
+[STEP 859]
+Clock is ticking!
+Miss! Page: 978
+Removing page 989 with counter 4194304
+Putting page 978 to frame 3
+
+[STEP 860]
+Miss! Page: 333
+Removing page 268 with counter 4194304
+Putting page 333 to frame 4
+
+[STEP 861]
+Miss! Page: 654
+Removing page 113 with counter 4194304
+Putting page 654 to frame 5
+
+[STEP 862]
+Clock is ticking!
+Miss! Page: 293
+Removing page 164 with counter 2097152
+Putting page 293 to frame 6
+
+[STEP 863]
+Clock is ticking!
+Miss! Page: 491
+Removing page 303 with counter 1048576
+Putting page 491 to frame 7
+
+[STEP 864]
+Miss! Page: 672
+Removing page 563 with counter 1048576
+Putting page 672 to frame 8
+
+[STEP 865]
+Clock is ticking!
+Miss! Page: 836
+Removing page 806 with counter 524288
+Putting page 836 to frame 9
+
+[STEP 866]
+Clock is ticking!
+Miss! Page: 553
+Removing page 99 with counter 262144
+Putting page 553 to frame 11
+
+[STEP 867]
+Miss! Page: 403
+Removing page 26 with counter 262144
+Putting page 403 to frame 12
+
+[STEP 868]
+Miss! Page: 371
+Removing page 103 with counter 262144
+Putting page 371 to frame 14
+
+[STEP 869]
+Miss! Page: 21
+Removing page 751 with counter 262144
+Putting page 21 to frame 15
+
+[STEP 870]
+Miss! Page: 397
+Removing page 253 with counter 262144
+Putting page 397 to frame 19
+
+[STEP 871]
+Miss! Page: 954
+Removing page 496 with counter 262144
+Putting page 954 to frame 21
+
+[STEP 872]
+Miss! Page: 31
+Removing page 367 with counter 262144
+Putting page 31 to frame 23
+
+[STEP 873]
+Clock is ticking!
+Miss! Page: 460
+Removing page 484 with counter 131072
+Putting page 460 to frame 27
+
+[STEP 874]
+Miss! Page: 106
+Removing page 127 with counter 131072
+Putting page 106 to frame 30
+
+[STEP 875]
+Clock is ticking!
+Miss! Page: 989
+Removing page 177 with counter 65536
+Putting page 989 to frame 32
+
+[STEP 876]
+Clock is ticking!
+Miss! Page: 328
+Removing page 478 with counter 32768
+Putting page 328 to frame 33
+
+[STEP 877]
+Clock is ticking!
+Miss! Page: 931
+Removing page 424 with counter 16384
+Putting page 931 to frame 34
+
+[STEP 878]
+Miss! Page: 610
+Removing page 124 with counter 16384
+Putting page 610 to frame 37
+
+[STEP 879]
+Miss! Page: 185
+Removing page 633 with counter 16384
+Putting page 185 to frame 46
+
+[STEP 880]
+Clock is ticking!
+Miss! Page: 570
+Removing page 159 with counter 8192
+Putting page 570 to frame 48
+
+[STEP 881]
+Miss! Page: 32
+Removing page 596 with counter 16384
+Putting page 32 to frame 10
+
+[STEP 882]
+Miss! Page: 773
+Removing page 11 with counter 16384
+Putting page 773 to frame 29
+
+[STEP 883]
+Miss! Page: 746
+Removing page 880 with counter 16384
+Putting page 746 to frame 45
+
+[STEP 884]
+Miss! Page: 658
+Removing page 797 with counter 32768
+Putting page 658 to frame 35
+
+[STEP 885]
+Clock is ticking!
+Miss! Page: 607
+Removing page 53 with counter 16384
+Putting page 607 to frame 36
+
+[STEP 886]
+Clock is ticking!
+Miss! Page: 316
+Removing page 104 with counter 16384
+Putting page 316 to frame 13
+
+[STEP 887]
+Clock is ticking!
+Miss! Page: 61
+Removing page 948 with counter 8192
+Putting page 61 to frame 17
+
+[STEP 888]
+Miss! Page: 444
+Removing page 917 with counter 8192
+Putting page 444 to frame 18
+
+[STEP 889]
+Miss! Page: 844
+Removing page 231 with counter 16384
+Putting page 844 to frame 20
+
+[STEP 890]
+Miss! Page: 157
+Removing page 858 with counter 32768
+Putting page 157 to frame 22
+
+[STEP 891]
+Clock is ticking!
+Miss! Page: 814
+Removing page 713 with counter 16384
+Putting page 814 to frame 24
+
+[STEP 892]
+Miss! Page: 648
+Removing page 950 with counter 16384
+Putting page 648 to frame 31
+
+[STEP 893]
+Clock is ticking!
+Miss! Page: 781
+Removing page 576 with counter 8192
+Putting page 781 to frame 38
+
+[STEP 894]
+Miss! Page: 623
+Removing page 968 with counter 8192
+Putting page 623 to frame 39
+
+[STEP 895]
+Miss! Page: 246
+Removing page 867 with counter 8192
+Putting page 246 to frame 40
+
+[STEP 896]
+Miss! Page: 489
+Removing page 58 with counter 16384
+Putting page 489 to frame 26
+
+[STEP 897]
+Clock is ticking!
+Miss! Page: 432
+Removing page 878 with counter 8192
+Putting page 432 to frame 28
+
+[STEP 898]
+Miss! Page: 232
+Removing page 119 with counter 8192
+Putting page 232 to frame 42
+
+[STEP 899]
+Clock is ticking!
+Miss! Page: 201
+Removing page 148 with counter 4096
+Putting page 201 to frame 44
+
+[STEP 900]
+Clock is ticking!
+Miss! Page: 542
+Removing page 227 with counter 2048
+Putting page 542 to frame 47
+
+[STEP 901]
+Miss! Page: 863
+Removing page 215 with counter 4096
+Putting page 863 to frame 0
+
+[STEP 902]
+Miss! Page: 344
+Removing page 435 with counter 4096
+Putting page 344 to frame 1
+
+[STEP 903]
+Miss! Page: 439
+Removing page 297 with counter 4096
+Putting page 439 to frame 16
+
+[STEP 904]
+Miss! Page: 646
+Removing page 691 with counter 4096
+Putting page 646 to frame 25
+
+[STEP 905]
+Miss! Page: 537
+Removing page 400 with counter 4096
+Putting page 537 to frame 41
+
+[STEP 906]
+Clock is ticking!
+Miss! Page: 621
+Removing page 655 with counter 2048
+Putting page 621 to frame 43
+
+[STEP 907]
+Clock is ticking!
+Miss! Page: 525
+Removing page 1 with counter 1024
+Putting page 525 to frame 49
+
+[STEP 908]
+Miss! Page: 51
+Removing page 601 with counter 2048
+Putting page 51 to frame 2
+
+[STEP 909]
+Hit! Page: 773
+
+[STEP 910]
+Miss! Page: 401
+Removing page 978 with counter 4096
+Putting page 401 to frame 3
+
+[STEP 911]
+Miss! Page: 380
+Removing page 333 with counter 4096
+Putting page 380 to frame 4
+
+[STEP 912]
+Miss! Page: 546
+Removing page 654 with counter 4096
+Putting page 546 to frame 5
+
+[STEP 913]
+Hit! Page: 185
+
+[STEP 914]
+Clock is ticking!
+Miss! Page: 136
+Removing page 293 with counter 4096
+Putting page 136 to frame 6
+
+[STEP 915]
+Miss! Page: 505
+Removing page 491 with counter 8192
+Putting page 505 to frame 7
+
+[STEP 916]
+Clock is ticking!
+Miss! Page: 321
+Removing page 672 with counter 4096
+Putting page 321 to frame 8
+
+[STEP 917]
+Miss! Page: 238
+Removing page 836 with counter 8192
+Putting page 238 to frame 9
+
+[STEP 918]
+Miss! Page: 956
+Removing page 553 with counter 16384
+Putting page 956 to frame 11
+
+[STEP 919]
+Miss! Page: 567
+Removing page 403 with counter 16384
+Putting page 567 to frame 12
+
+[STEP 920]
+Clock is ticking!
+Miss! Page: 565
+Removing page 371 with counter 8192
+Putting page 565 to frame 14
+
+[STEP 921]
+Miss! Page: 605
+Removing page 21 with counter 8192
+Putting page 605 to frame 15
+
+[STEP 922]
+Miss! Page: 457
+Removing page 397 with counter 8192
+Putting page 457 to frame 19
+
+[STEP 923]
+Miss! Page: 854
+Removing page 954 with counter 8192
+Putting page 854 to frame 21
+
+[STEP 924]
+Clock is ticking!
+Miss! Page: 169
+Removing page 31 with counter 4096
+Putting page 169 to frame 23
+
+[STEP 925]
+Miss! Page: 113
+Removing page 460 with counter 8192
+Putting page 113 to frame 27
+
+[STEP 926]
+Clock is ticking!
+Hit! Page: 956
+
+[STEP 927]
+Clock is ticking!
+Miss! Page: 941
+Removing page 106 with counter 2048
+Putting page 941 to frame 30
+
+[STEP 928]
+Miss! Page: 643
+Removing page 989 with counter 4096
+Putting page 643 to frame 32
+
+[STEP 929]
+Hit! Page: 537
+
+[STEP 930]
+Clock is ticking!
+Miss! Page: 628
+Removing page 328 with counter 4096
+Putting page 628 to frame 33
+
+[STEP 931]
+Miss! Page: 187
+Removing page 931 with counter 8192
+Putting page 187 to frame 34
+
+[STEP 932]
+Miss! Page: 62
+Removing page 610 with counter 8192
+Putting page 62 to frame 37
+
+[STEP 933]
+Miss! Page: 472
+Removing page 32 with counter 16384
+Putting page 472 to frame 10
+
+[STEP 934]
+Miss! Page: 709
+Removing page 658 with counter 16384
+Putting page 709 to frame 35
+
+[STEP 935]
+Miss! Page: 192
+Removing page 746 with counter 16384
+Putting page 192 to frame 45
+
+[STEP 936]
+Miss! Page: 442
+Removing page 570 with counter 16384
+Putting page 442 to frame 48
+
+[STEP 937]
+Miss! Page: 419
+Removing page 607 with counter 32768
+Putting page 419 to frame 36
+
+[STEP 938]
+Miss! Page: 264
+Removing page 316 with counter 65536
+Putting page 264 to frame 13
+
+[STEP 939]
+Miss! Page: 923
+Removing page 61 with counter 131072
+Putting page 923 to frame 17
+
+[STEP 940]
+Clock is ticking!
+Miss! Page: 694
+Removing page 444 with counter 65536
+Putting page 694 to frame 18
+
+[STEP 941]
+Miss! Page: 309
+Removing page 844 with counter 65536
+Putting page 309 to frame 20
+
+[STEP 942]
+Miss! Page: 13
+Removing page 157 with counter 65536
+Putting page 13 to frame 22
+
+[STEP 943]
+Miss! Page: 82
+Removing page 814 with counter 131072
+Putting page 82 to frame 24
+
+[STEP 944]
+Miss! Page: 178
+Removing page 648 with counter 131072
+Putting page 178 to frame 31
+
+[STEP 945]
+Clock is ticking!
+Miss! Page: 429
+Removing page 489 with counter 131072
+Putting page 429 to frame 26
+
+[STEP 946]
+Miss! Page: 411
+Removing page 781 with counter 131072
+Putting page 411 to frame 38
+
+[STEP 947]
+Miss! Page: 144
+Removing page 623 with counter 131072
+Putting page 144 to frame 39
+
+[STEP 948]
+Miss! Page: 994
+Removing page 246 with counter 131072
+Putting page 994 to frame 40
+
+[STEP 949]
+Miss! Page: 531
+Removing page 432 with counter 262144
+Putting page 531 to frame 28
+
+[STEP 950]
+Miss! Page: 85
+Removing page 232 with counter 262144
+Putting page 85 to frame 42
+
+[STEP 951]
+Miss! Page: 883
+Removing page 201 with counter 524288
+Putting page 883 to frame 44
+
+[STEP 952]
+Miss! Page: 922
+Removing page 863 with counter 1048576
+Putting page 922 to frame 0
+
+[STEP 953]
+Miss! Page: 551
+Removing page 344 with counter 1048576
+Putting page 551 to frame 1
+
+[STEP 954]
+Miss! Page: 647
+Removing page 439 with counter 1048576
+Putting page 647 to frame 16
+
+[STEP 955]
+Miss! Page: 351
+Removing page 646 with counter 1048576
+Putting page 351 to frame 25
+
+[STEP 956]
+Clock is ticking!
+Miss! Page: 824
+Removing page 542 with counter 524288
+Putting page 824 to frame 47
+
+[STEP 957]
+Miss! Page: 269
+Removing page 621 with counter 1048576
+Putting page 269 to frame 43
+
+[STEP 958]
+Miss! Page: 508
+Removing page 51 with counter 2097152
+Putting page 508 to frame 2
+
+[STEP 959]
+Miss! Page: 417
+Removing page 401 with counter 2097152
+Putting page 417 to frame 3
+
+[STEP 960]
+Miss! Page: 138
+Removing page 380 with counter 2097152
+Putting page 138 to frame 4
+
+[STEP 961]
+Miss! Page: 586
+Removing page 546 with counter 2097152
+Putting page 586 to frame 5
+
+[STEP 962]
+Hit! Page: 923
+
+[STEP 963]
+Miss! Page: 182
+Removing page 525 with counter 2097152
+Putting page 182 to frame 49
+
+[STEP 964]
+Miss! Page: 170
+Removing page 185 with counter 2098176
+Putting page 170 to frame 46
+
+[STEP 965]
+Miss! Page: 563
+Removing page 773 with counter 2099200
+Putting page 563 to frame 29
+
+[STEP 966]
+Hit! Page: 457
+
+[STEP 967]
+Clock is ticking!
+Miss! Page: 641
+Removing page 136 with counter 2097152
+Putting page 641 to frame 6
+
+[STEP 968]
+Miss! Page: 862
+Removing page 505 with counter 2097152
+Putting page 862 to frame 7
+
+[STEP 969]
+Miss! Page: 424
+Removing page 321 with counter 4194304
+Putting page 424 to frame 8
+
+[STEP 970]
+Miss! Page: 473
+Removing page 238 with counter 4194304
+Putting page 473 to frame 9
+
+[STEP 971]
+Miss! Page: 589
+Removing page 567 with counter 4194304
+Putting page 589 to frame 12
+
+[STEP 972]
+Hit! Page: 694
+
+[STEP 973]
+Miss! Page: 142
+Removing page 565 with counter 8388608
+Putting page 142 to frame 14
+
+[STEP 974]
+Miss! Page: 772
+Removing page 605 with counter 8388608
+Putting page 772 to frame 15
+
+[STEP 975]
+Miss! Page: 983
+Removing page 854 with counter 8388608
+Putting page 983 to frame 21
+
+[STEP 976]
+Clock is ticking!
+Miss! Page: 972
+Removing page 169 with counter 8388608
+Putting page 972 to frame 23
+
+[STEP 977]
+Miss! Page: 761
+Removing page 113 with counter 8388608
+Putting page 761 to frame 27
+
+[STEP 978]
+Miss! Page: 266
+Removing page 956 with counter 18874368
+Putting page 266 to frame 11
+
+[STEP 979]
+Miss! Page: 471
+Removing page 941 with counter 33554432
+Putting page 471 to frame 30
+
+[STEP 980]
+Miss! Page: 985
+Removing page 643 with counter 33554432
+Putting page 985 to frame 32
+
+[STEP 981]
+Miss! Page: 97
+Removing page 537 with counter 33685504
+Putting page 97 to frame 41
+
+[STEP 982]
+Clock is ticking!
+Miss! Page: 67
+Removing page 472 with counter 33554432
+Putting page 67 to frame 10
+
+[STEP 983]
+Miss! Page: 861
+Removing page 264 with counter 33554432
+Putting page 861 to frame 13
+
+[STEP 984]
+Clock is ticking!
+Miss! Page: 758
+Removing page 628 with counter 16777216
+Putting page 758 to frame 33
+
+[STEP 985]
+Clock is ticking!
+Miss! Page: 584
+Removing page 187 with counter 8388608
+Putting page 584 to frame 34
+
+[STEP 986]
+Clock is ticking!
+Miss! Page: 214
+Removing page 709 with counter 4194304
+Putting page 214 to frame 35
+
+[STEP 987]
+Miss! Page: 740
+Removing page 419 with counter 4194304
+Putting page 740 to frame 36
+
+[STEP 988]
+Miss! Page: 783
+Removing page 62 with counter 4194304
+Putting page 783 to frame 37
+
+[STEP 989]
+Miss! Page: 959
+Removing page 192 with counter 4194304
+Putting page 959 to frame 45
+
+[STEP 990]
+Clock is ticking!
+Miss! Page: 780
+Removing page 442 with counter 2097152
+Putting page 780 to frame 48
+
+[STEP 991]
+Miss! Page: 834
+Removing page 309 with counter 4194304
+Putting page 834 to frame 20
+
+[STEP 992]
+Clock is ticking!
+Miss! Page: 361
+Removing page 13 with counter 2097152
+Putting page 361 to frame 22
+
+[STEP 993]
+Clock is ticking!
+Miss! Page: 782
+Removing page 82 with counter 1048576
+Putting page 782 to frame 24
+
+[STEP 994]
+Miss! Page: 544
+Removing page 178 with counter 1048576
+Putting page 544 to frame 31
+
+[STEP 995]
+Clock is ticking!
+Miss! Page: 690
+Removing page 922 with counter 1048576
+Putting page 690 to frame 0
+
+[STEP 996]
+Clock is ticking!
+Miss! Page: 400
+Removing page 551 with counter 524288
+Putting page 400 to frame 1
+
+[STEP 997]
+Miss! Page: 527
+Removing page 647 with counter 524288
+Putting page 527 to frame 16
+
+[STEP 998]
+Clock is ticking!
+Miss! Page: 438
+Removing page 351 with counter 262144
+Putting page 438 to frame 25
+
+[STEP 999]
+Miss! Page: 272
+Removing page 429 with counter 262144
+Putting page 272 to frame 26
+
+Hit/Miss ratio for Aging Algorithm: 53/947

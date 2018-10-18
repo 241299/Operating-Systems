@@ -1,0 +1,24 @@
+The easiest way to decrease the hit/miss ratio is by using thrashing.
+Example:
+    Frames = 3
+    Seq: 1234 1234 ...
+         ^^^
+            ^
+              ^
+               ^
+                ^
+                 ^
+                    ... (will miss every time)
+
+
+One of the ways of increasing this ratio is by using the inverse of thrashing
+NB: this sequence makes algorithms' execution very close to the optimal
+Example:
+    Frames = 3
+    Seq: 1234 4321 1234 4321 ...
+         ^^^
+            ^
+                 ^
+                      ^
+                           ^
+                             ... (just 1 miss for 3 hits)

@@ -1,0 +1,5 @@
+-rw-r--r-- 1 Businessgun Отсутствует 1 окт 24 19:51 _ex3.txt
+-rwxr--rwx 1 Businessgun Отсутствует 1 окт 24 19:51 _ex3.txt
+-rw-rw---- 1 Businessgun Отсутствует 1 окт 24 19:51 _ex3.txt
+-rwxrwxr-x 1 Businessgun Отсутствует 1 окт 24 19:51 _ex3.txt
+-rwxrwxrwx 1 Businessgun Отсутствует 1 окт 24 19:51 _ex3.txt

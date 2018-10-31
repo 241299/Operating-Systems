@@ -1,0 +1,3 @@
+The difference of output is caused by the nature of the fork instruction, which copied the contents of the stdout buffer.
+In the first program, word "Hello" was copied, in the second — nothing.
+Both threads wrote to the same file, each flushing its own buffer.

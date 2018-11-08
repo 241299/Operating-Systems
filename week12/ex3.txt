@@ -1,0 +1,204 @@
+/////////////////////////
+//                     //
+//     Explanation     //
+//                     //
+/////////////////////////
+
+As it can be observed, synchronised version of the copy program has lower performance than the async one.
+However, varying buffer size or file size didn't have that much impact on the execution time, as it may be expected.
+Strangely, the default buffer size (1KB) was the slowest one for both sync and async runs.
+
+
+/////////////////////////
+//                     //
+//     Program out     //
+//                     //
+/////////////////////////
+
+File size: 2048 B
+
+[DEFAULT CASE]
+gcc copy.c -o copy
+
+real	0m0,148s
+user	0m0,015s
+sys	0m0,000s
+
+[DEFAULT CASE SYNC]
+gcc copy.c -o copy -DSYNC
+
+real	0m0,151s
+user	0m0,015s
+sys	0m0,030s
+
+[Buffer 256B]
+gcc copy.c -o copy -DBUF_SIZE=256
+
+real	0m0,045s
+user	0m0,015s
+sys	0m0,000s
+
+[Buffer 256B SYNC]
+gcc copy.c -o copy -DSYNC -DBUF_SIZE=256
+
+real	0m0,073s
+user	0m0,046s
+sys	0m0,015s
+
+[Buffer 512B]
+gcc copy.c -o copy -DBUF_SIZE=512
+
+real	0m0,046s
+user	0m0,000s
+sys	0m0,031s
+
+[Buffer 512B SYNC]
+gcc copy.c -o copy -DSYNC -DBUF_SIZE=512
+
+real	0m0,072s
+user	0m0,000s
+sys	0m0,015s
+
+[Buffer 1MB]
+gcc copy.c -o copy -DBUF_SIZE=1024*1024
+
+real	0m0,045s
+user	0m0,000s
+sys	0m0,015s
+
+[Buffer 1MB SYNC]
+gcc copy.c -o copy -DSYNC -DBUF_SIZE=1024*1024
+
+real	0m0,048s
+user	0m0,000s
+sys	0m0,031s
+
+
+/////////////////////////
+//                     //
+//     Program out     //
+//                     //
+/////////////////////////
+
+File size: 8 B
+
+[DEFAULT CASE]
+gcc copy.c -o copy
+
+real	0m0,161s
+user	0m0,000s
+sys	0m0,093s
+
+[DEFAULT CASE SYNC]
+gcc copy.c -o copy -DSYNC
+
+real	0m0,123s
+user	0m0,000s
+sys	0m0,015s
+
+[Buffer 256B]
+gcc copy.c -o copy -DBUF_SIZE=256
+
+real	0m0,153s
+user	0m0,000s
+sys	0m0,046s
+
+[Buffer 256B SYNC]
+gcc copy.c -o copy -DSYNC -DBUF_SIZE=256
+
+real	0m0,067s
+user	0m0,031s
+sys	0m0,015s
+
+[Buffer 512B]
+gcc copy.c -o copy -DBUF_SIZE=512
+
+real	0m0,047s
+user	0m0,000s
+sys	0m0,031s
+
+[Buffer 512B SYNC]
+gcc copy.c -o copy -DSYNC -DBUF_SIZE=512
+
+real	0m0,068s
+user	0m0,015s
+sys	0m0,016s
+
+[Buffer 1MB]
+gcc copy.c -o copy -DBUF_SIZE=1024*1024
+
+real	0m0,040s
+user	0m0,000s
+sys	0m0,000s
+
+[Buffer 1MB SYNC]
+gcc copy.c -o copy -DSYNC -DBUF_SIZE=1024*1024
+
+real	0m0,076s
+user	0m0,000s
+sys	0m0,015s
+
+
+/////////////////////////
+//                     //
+//     Program out     //
+//                     //
+/////////////////////////
+
+File size: 65536 B
+
+[DEFAULT CASE]
+gcc copy.c -o copy
+
+real	0m0,179s
+user	0m0,000s
+sys	0m0,108s
+
+[DEFAULT CASE SYNC]
+gcc copy.c -o copy -DSYNC
+
+real	0m0,191s
+user	0m0,015s
+sys	0m0,030s
+
+[Buffer 256B]
+gcc copy.c -o copy -DBUF_SIZE=256
+
+real	0m0,051s
+user	0m0,000s
+sys	0m0,015s
+
+[Buffer 256B SYNC]
+gcc copy.c -o copy -DSYNC -DBUF_SIZE=256
+
+real	0m0,125s
+user	0m0,015s
+sys	0m0,093s
+
+[Buffer 512B]
+gcc copy.c -o copy -DBUF_SIZE=512
+
+real	0m0,154s
+user	0m0,015s
+sys	0m0,015s
+
+[Buffer 512B SYNC]
+gcc copy.c -o copy -DSYNC -DBUF_SIZE=512
+
+real	0m0,075s
+user	0m0,000s
+sys	0m0,031s
+
+[Buffer 1MB]
+gcc copy.c -o copy -DBUF_SIZE=1024*1024
+
+real	0m0,048s
+user	0m0,000s
+sys	0m0,030s
+
+[Buffer 1MB SYNC]
+gcc copy.c -o copy -DSYNC -DBUF_SIZE=1024*1024
+
+real	0m0,050s
+user	0m0,000s
+sys	0m0,031s

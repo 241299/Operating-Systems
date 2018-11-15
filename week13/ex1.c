@@ -78,16 +78,16 @@ int main(int argc, char **argv) {
     if (*ret_c == 0) {
         printf("No deadlock is detected\n");
     } else if (*ret_c == 1) {
-        printf("Warning: process %d cannot be run on current resources\n", *ret_v[0]);
+        printf("Warning: process %c cannot be run on current resources\n", 'A' + (*ret_v)[0]);
     } else {
         printf("Deadlock detected in processes ");
-        printf("%d", (*ret_v)[0]);
+        printf("%c", 'A' + (*ret_v)[0]);
 
         for (int i = 1; i < (*ret_c) - 1; i++) {
-            printf(", %d", (*ret_v)[i]);
+            printf(", %c", 'A' + (*ret_v)[i]);
         }
 
-        printf(" and %d", (*ret_v)[*ret_c - 1]);
+        printf(" and %c", 'A' + (*ret_v)[*ret_c - 1]);
     }
 }
 

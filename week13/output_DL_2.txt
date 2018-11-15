@@ -22,4 +22,4 @@ Unmarked left: 1
 Process A doesn't fit
 Dump: available = 4, 2, 4, 4, 1
 
-Warning: process 0 cannot be run on current resources
+Warning: process A cannot be run on current resources

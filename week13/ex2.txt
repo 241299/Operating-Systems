@@ -1,0 +1,16 @@
+[Recovery]
+The system lets deadlocks occur and detects them.
+This might be good solution when it is much less costly to detect a deadlock and deal with it than to do matrix stuff all the time.
+
+[Prevention]
+We can prevent deadlocks by getting rid of any of the following:
+- Mutual Exclusion
+- Hold and Wait
+- No preemption
+- Circular wait
+
+The easiest is to forcibly preempt the resources and give them to another high-priority process.
+
+[Avoidance]
+Deadlock can be avoided with Banker’s Algorithm.
+This is pretty useful in theory, but can be kind of expensive in practice

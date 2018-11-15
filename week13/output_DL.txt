@@ -1,3 +1,17 @@
 Allocation matrix size: 5×3
 
-Deadlock detected in processes 0, 1, 2, 3 and 4
+Unmarked left: 5
+Process A fits
+Process B doesn't fit
+Process C doesn't fit
+Process D doesn't fit
+Process E fits
+Dump: available = 0, 1, 4
+
+Unmarked left: 3
+Process B doesn't fit
+Process C doesn't fit
+Process D doesn't fit
+Dump: available = 0, 1, 4
+
+Deadlock detected in processes 1, 2 and 3

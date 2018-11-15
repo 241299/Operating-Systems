@@ -1,0 +1,12 @@
+Allocation matrix size: 3×4
+
+Unmarked left: 3
+State: 1
+TAG reached. Dump: res_c = 4, proc_c = 3, available = 2, 2, 2, 0
+Unmarked left: 2
+State: 1
+TAG reached. Dump: res_c = 4, proc_c = 3, available = 4, 2, 2, 1
+Unmarked left: 1
+State: 3
+TAG reached. Dump: res_c = 4, proc_c = 3, available = 4, 2, 3, 1
+No deadlock is detected

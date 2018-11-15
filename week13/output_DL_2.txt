@@ -1,0 +1,25 @@
+Allocation matrix size: 4×5
+
+Unmarked left: 4
+Process A doesn't fit
+Process B doesn't fit
+Process C doesn't fit
+Process D fits
+Dump: available = 1, 1, 3, 2, 1
+
+Unmarked left: 3
+Process A doesn't fit
+Process B doesn't fit
+Process C fits
+Dump: available = 2, 2, 3, 3, 1
+
+Unmarked left: 2
+Process A doesn't fit
+Process B fits
+Dump: available = 4, 2, 4, 4, 1
+
+Unmarked left: 1
+Process A doesn't fit
+Dump: available = 4, 2, 4, 4, 1
+
+Warning: process 0 cannot be run on current resources
